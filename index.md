@@ -1,14 +1,12 @@
 
- # Welcome to Dr Nick Firoozye's Homepage
+# Welcome to Dr Nick Firoozye's Homepage
 
- ## About Me
-**Dr. Nick Firoozye** is a mathematician and finance professional with over 20 years of experience in research, structuring, and trading across buy and sell-side firms, including  Lehman Brothers, Deutsche Bank, Nomura, Goldman Sachs, and Citadel.  He specialises in areas ranging from Quant Strategy, RV Trading, to Asset Allocation.  Currently, Nick works at a mid-frequency trading prop firm based in Chicago. 
+## About Me
+  - **Dr. Nick Firoozye** is a mathematician and finance professional with over 20 years of experience in research, structuring, and trading across buy and sell-side firms, including  Lehman Brothers, Deutsche Bank, Nomura, Goldman Sachs, and Citadel.  He specialises in areas ranging from Quant Strategy, RV Trading, to Asset Allocation.  Currently, Nick works at a mid-frequency trading prop firm based in Chicago. 
+  - As an Honorary Professor at University College London, Nick developed the Algorithmic Trading Strategies course, which he has taught PhD and MSc students since 2016.  He has also created and taught several successful online versions of the class. He has supervised eight PhD students researching machine learning for algorithmic trading and finance, with several now working in AI, systematic trading, and quant research. Over 600 students have successfully completed the Master's and online courses. 
+  - Nick co-authored the book _Managing Uncertainty, Mitigating Risk_, which addresses uncertainty in modelling financial crises. He holds a PhD from the Courant Institute, NYU, with postdoctoral positions at the University of Minnesota, Heriot-Watt University, the University of Bonn, and NYU. Before moving to Wall Street, Nick held a tenure-track Assistant Professorship at the University of Illinois, Urbana-Champaign.
 
-As an Honorary Professor at University College London, Nick developed the Algorithmic Trading Strategies course, which he has taught PhD and MSc students since 2016.  He has also created and taught several successful online versions of the class. He has supervised eight PhD students researching machine learning for algorithmic trading and finance, with several now working in AI, systematic trading, and quant research. Over 600 students have successfully completed the Master's and online courses. 
-
-Nick co-authored the book _Managing Uncertainty, Mitigating Risk_, which addresses uncertainty in modelling financial crises. He holds a PhD from the Courant Institute, NYU, with postdoctoral positions at the University of Minnesota, Heriot-Watt University, the University of Bonn, and NYU. Before moving to Wall Street, Nick held a tenure-track Assistant Professorship at the University of Illinois, Urbana-Champaign.
-
- ## Academic Information
+## Academic Information
  - **Institution**: University College London (UCL)
  - **Department**: Computer Science
  - **Research Group**: Financial Computing and Analytics Group
@@ -58,7 +56,7 @@ In summary, I am interested in
   - **Lehman Brothers** (1995-1999)
   - **University of Illinois at Urbana-Champaign** (1994-1995) Assistant Professor (tenure-track), Mathematics. 
 
- ## Contact Information
+## Contact Information
  - **UCL Email**: [n.firoozye@ucl.ac.uk]
  - **Email**: [firoozye@gmail.com]
  - **Office**: [WFH] 
@@ -72,27 +70,30 @@ In summary, I am interested in
   - [Quantitative Trading: A Systematic Approach] - A comprehensive guide to algorithmic trading, covering the foundations of quantitative trading strategies across styles and timescales. Together with Dr Brian Healey, under contract, CRC Press, expected publication in 2026.
   - [Managing Uncertainty, Mitigating Risk] - A book on the role of uncertainty in financial markets, covering the Eurozone crisis, financial crises, and the impact of uncertainty on trading strategies.  Coauthored with Fauziah Ariff. Wiley 2017.
 
- ## Social Media and Online Presence
+## Social Media and Online Presence
  - [LinkedIn](https://www.linkedin.com/in/firoozye)
  - [Twitter](https://twitter.com/firoozye)
  - [GitHub](https://github.com/firoozye)
  - [BlueSky](https://bluesky.social/@firoozye)
- - [Linktree](https://linktr.ee/firoozye)
+ - [Linktree (Links to All Online Presence)](https://linktr.ee/firoozye)
  
 
- ## Publications
+## Publications (Recent and Older Academic, and Sell-Side Research)
  1. [ORCID](https://orcid.org/0000-0002-6460-0406)
  2. [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=N3DhLMUAAAAJ)
+ 3. [ResearchGate](https://www.researchgate.net/profile/Nick-Firoozye)
+ 4. [arXiv](https://arxiv.org/a/firoozye_n_1.html)
+ 5. [Academia.com (including sell-side research)](https://ucl.academia.edu/NikanNickFiroozye)
 
- ## Projects
+## Projects
  - [Project 1](link-to-project): Brief description
  - [Project 2](link-to-project): Brief description
 
- ## Teaching
+## Teaching
  - [Course 1]: Brief description
  - [Course 2]: Brief description
 
- ## Links
+## Links
  - [UCL Personal Page](link-to-ucl-page)
  - [Google Scholar](link-to-google-scholar)
  - [ResearchGate](link-to-researchgate)
