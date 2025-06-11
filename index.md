@@ -1,7 +1,12 @@
- # Welcome to Firoozye's Homepage
+
+ # Welcome to Dr Nick Firoozye's Homepage
 
  ## About Me
- Brief introduction about yourself here.
+**Dr. Nick Firoozye** is a mathematician and finance professional with over 20 years of experience in research, structuring, and trading across buy and sell-side firms, including  Lehman Brothers, Deutsche Bank, Nomura, Goldman Sachs, and Citadel.  He specialises in areas ranging from Quant Strategy, RV Trading, to Asset Allocation.  Currently, Nick works at a mid-frequency trading prop firm based in Chicago. 
+
+As an Honorary Professor at University College London, Nick developed the Algorithmic Trading Strategies course, which he has taught PhD and MSc students since 2016.  He has also created and taught several successful online versions of the class. He has supervised eight PhD students researching machine learning for algorithmic trading and finance, with several now working in AI, systematic trading, and quant research. Over 600 students have successfully completed the Master's and online courses. 
+
+Nick co-authored the book _Managing Uncertainty, Mitigating Risk_, which addresses uncertainty in modelling financial crises. He holds a PhD from the Courant Institute, NYU, with postdoctoral positions at the University of Minnesota, Heriot-Watt University, the University of Bonn, and NYU. Before moving to Wall Street, Nick held a tenure-track Assistant Professorship at the University of Illinois, Urbana-Champaign.
 
  ## Academic Information
  - **Institution**: University College London (UCL)
@@ -12,12 +17,27 @@
     - Konark Jain
     - Anna-Helena Mihov
     - Zhicheng Xu
+    - Chloe Taysom
     - Dr Gabriel Borrageiro
     - Dr Adriano Koshiyama
+    - Dr Wilbur Zhu
+    - Dr Denis De Montigny
     - Oxford University PhD Student : [Dr Vincent Tan]
     - University of Sao Paolo PhD Student: Daniel Cunha-Oliveira
 
  - **Research Interests**: Reinforcement Learning, Online Learning, Adaptive Filtering, Forecasting for Algorithmic Trading, Low SNR, Nonstationary Signals, Financial Time Series, Algorithmic Trading, High Frequency Trading, Market Microstructure, Machine Learning, Deep Learning, Statistical Learning, Bayesian Methods
+Interested in ML, Computations Statistics, and AI, applied to Finance and especially to Algorithmic Trading. This necessarily involves time-series forecasting, using methods from Statistics, (Adaptive) Signal Processing, Econometrics, and Machine Learning. Also I have interests in portfolio allocation, and stochastic control / reinforcement learning for optimal execution. Recent areas of interest have been in random matrix theory for portfolio analysis, RL for optimal execution, bagging and boosting over-parameterised shallow nets for online learning to forecast prices in near real-time.
+In summary, I am interested in 
+    - Time-series forecasting for low SNR, highly non-stationary signals.
+    - Change-point detection / regime-switching
+    - Overparameterised Models and Ensembling
+    - Adaptive forecasting and State-space models
+    - Kernel methods and DNN for forecasting 
+    - Fast algorithms, 
+    - Optimal Allocation
+    - Order book simulation and Optimal Order Placement
+    - Reinforcement Learning / Stoch Control
+
  - **Other interests**: 
     - Calculus of Variations and Nonlinear PDE, Elasticity
     - Image Processing
@@ -78,5 +98,5 @@
  - [ResearchGate](link-to-researchgate)
 
  ---
- Last updated: [Date]
+ Last updated: [11-06-2025]
 
