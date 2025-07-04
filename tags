@@ -12,19 +12,26 @@
 Dr Nikan Firoozye	index_old.html	/^	<h1>Dr Nikan Firoozye<\/h1>$/;"	h	line:7	language:HTML
 Dr. Nick Firoozye&#39;s Blog	blogpost.html	/^    <h2 class="footer-heading">Dr. Nick Firoozye&#39;s Blog<\/h2>$/;"	i	line:194	language:HTML
 Dr. Nick Firoozye&#39;s Blog	blogpost_after_fix.html	/^    <h2 class="footer-heading">Dr. Nick Firoozye&#39;s Blog<\/h2>$/;"	i	line:207	language:HTML
+Dr. Nick Firoozye&#39;s Blog	blogpost_after_kramdown-fix.html	/^    <h2 class="footer-heading">Dr. Nick Firoozye&#39;s Blog<\/h2>$/;"	i	line:207	language:HTML
 Further Discussions:	blogpost.html	/^<h2 id="further-discussions">Further Discussions:<\/h2>$/;"	i	line:174	language:HTML
 Further Discussions:	blogpost_after_fix.html	/^<h2 id="further-discussions">Further Discussions:<\/h2>$/;"	i	line:187	language:HTML
+Further Discussions:	blogpost_after_kramdown-fix.html	/^<h2 id="further-discussions">Further Discussions:<\/h2>$/;"	i	line:187	language:HTML
 Honorary Reader	index_old.html	/^	<h2>Honorary Reader<\/h2> <img src= "nbfheadshot.jpg" width="200" height="200" alt="Dr Nikan Fi/;"	i	line:8	language:HTML
 Mean Reversion (Part 1)	blogpost.html	/^    <h1 class="post-title p-name" itemprop="name headline">Mean Reversion (Part 1)<\/h1>$/;"	h	line:44	language:HTML
 Mean Reversion (Part 1)	blogpost.html	/^    <h1 id="mean-reversion-part-1">Mean Reversion (Part 1)<\/h1>$/;"	h	line:51	language:HTML
 Mean Reversion (Part 1)	blogpost_after_fix.html	/^    <h1 class="post-title p-name" itemprop="name headline">Mean Reversion (Part 1)<\/h1>$/;"	h	line:57	language:HTML
 Mean Reversion (Part 1)	blogpost_after_fix.html	/^    <h1 id="mean-reversion-part-1">Mean Reversion (Part 1)<\/h1>$/;"	h	line:64	language:HTML
+Mean Reversion (Part 1)	blogpost_after_kramdown-fix.html	/^    <h1 class="post-title p-name" itemprop="name headline">Mean Reversion (Part 1)<\/h1>$/;"	h	line:57	language:HTML
+Mean Reversion (Part 1)	blogpost_after_kramdown-fix.html	/^    <h1 id="mean-reversion-part-1">Mean Reversion (Part 1)<\/h1>$/;"	h	line:64	language:HTML
 Mean-Reversion in Practice	blogpost.html	/^<h2 id="mean-reversion-in-practice">Mean-Reversion in Practice<\/h2>$/;"	i	line:155	language:HTML
 Mean-Reversion in Practice	blogpost_after_fix.html	/^<h2 id="mean-reversion-in-practice">Mean-Reversion in Practice<\/h2>$/;"	i	line:168	language:HTML
+Mean-Reversion in Practice	blogpost_after_kramdown-fix.html	/^<h2 id="mean-reversion-in-practice">Mean-Reversion in Practice<\/h2>$/;"	i	line:168	language:HTML
 Mean-Reversion in a Trading Framework:	blogpost.html	/^<h2 id="mean-reversion-in-a-trading-framework">Mean-Reversion in a Trading Framework:<\/h2>$/;"	i	line:172	language:HTML
 Mean-Reversion in a Trading Framework:	blogpost_after_fix.html	/^<h2 id="mean-reversion-in-a-trading-framework">Mean-Reversion in a Trading Framework:<\/h2>$/;"	i	line:185	language:HTML
+Mean-Reversion in a Trading Framework:	blogpost_after_kramdown-fix.html	/^<h2 id="mean-reversion-in-a-trading-framework">Mean-Reversion in a Trading Framework:<\/h2>$/;"	i	line:185	language:HTML
 Nyblom-Makala"inen Test and KPSS test	blogpost.html	/^<h2 id="nyblom-makalainen-test-and-kpss-test">Nyblom-Makala"inen Test and KPSS test<\/h2>$/;"	i	line:89	language:HTML
 Nyblom-Makala"inen Test and KPSS test	blogpost_after_fix.html	/^<h2 id="nyblom-makalainen-test-and-kpss-test">Nyblom-Makala"inen Test and KPSS test<\/h2>$/;"	i	line:102	language:HTML
+Nyblom-Makala"inen Test and KPSS test	blogpost_after_kramdown-fix.html	/^<h2 id="nyblom-makalainen-test-and-kpss-test">Nyblom-Makala"inen Test and KPSS test<\/h2>$/;"	i	line:102	language:HTML
 References:	blogpost.html	/^<h2 id="references-3">References:<\/h2>$/;"	i	line:178	language:HTML
 References:	blogpost.html	/^<h3 id="references">References:<\/h3>$/;"	j	line:83	language:HTML
 References:	blogpost.html	/^<h3 id="references-1">References:<\/h3>$/;"	j	line:114	language:HTML
@@ -33,31 +40,49 @@ References:	blogpost_after_fix.html	/^<h2 id="references-3">References:<\/h2>$/;
 References:	blogpost_after_fix.html	/^<h3 id="references">References:<\/h3>$/;"	j	line:96	language:HTML
 References:	blogpost_after_fix.html	/^<h3 id="references-1">References:<\/h3>$/;"	j	line:127	language:HTML
 References:	blogpost_after_fix.html	/^<h3 id="references-2">References:<\/h3>$/;"	j	line:162	language:HTML
+References:	blogpost_after_kramdown-fix.html	/^<h2 id="references-3">References:<\/h2>$/;"	i	line:191	language:HTML
+References:	blogpost_after_kramdown-fix.html	/^<h3 id="references">References:<\/h3>$/;"	j	line:96	language:HTML
+References:	blogpost_after_kramdown-fix.html	/^<h3 id="references-1">References:<\/h3>$/;"	j	line:127	language:HTML
+References:	blogpost_after_kramdown-fix.html	/^<h3 id="references-2">References:<\/h3>$/;"	j	line:162	language:HTML
 The Augmented Dickey-Fuller Test (ADF Test)	blogpost.html	/^<h2 id="the-augmented-dickey-fuller-test-adf-test">The Augmented Dickey-Fuller Test (ADF Test)<\//;"	i	line:64	language:HTML
 The Augmented Dickey-Fuller Test (ADF Test)	blogpost_after_fix.html	/^<h2 id="the-augmented-dickey-fuller-test-adf-test">The Augmented Dickey-Fuller Test (ADF Test)<\//;"	i	line:77	language:HTML
+The Augmented Dickey-Fuller Test (ADF Test)	blogpost_after_kramdown-fix.html	/^<h2 id="the-augmented-dickey-fuller-test-adf-test">The Augmented Dickey-Fuller Test (ADF Test)<\//;"	i	line:77	language:HTML
 Variance Ratio Tests	blogpost.html	/^<h2 id="variance-ratio-tests">Variance Ratio Tests<\/h2>$/;"	i	line:121	language:HTML
 Variance Ratio Tests	blogpost_after_fix.html	/^<h2 id="variance-ratio-tests">Variance Ratio Tests<\/h2>$/;"	i	line:134	language:HTML
+Variance Ratio Tests	blogpost_after_kramdown-fix.html	/^<h2 id="variance-ratio-tests">Variance Ratio Tests<\/h2>$/;"	i	line:134	language:HTML
 further-discussions	blogpost.html	/^<h2 id="further-discussions">Further Discussions:<\/h2>$/;"	I	line:174	language:HTML
 further-discussions	blogpost_after_fix.html	/^<h2 id="further-discussions">Further Discussions:<\/h2>$/;"	I	line:187	language:HTML
+further-discussions	blogpost_after_kramdown-fix.html	/^<h2 id="further-discussions">Further Discussions:<\/h2>$/;"	I	line:187	language:HTML
 mean-reversion-in-a-trading-framework	blogpost.html	/^<h2 id="mean-reversion-in-a-trading-framework">Mean-Reversion in a Trading Framework:<\/h2>$/;"	I	line:172	language:HTML
 mean-reversion-in-a-trading-framework	blogpost_after_fix.html	/^<h2 id="mean-reversion-in-a-trading-framework">Mean-Reversion in a Trading Framework:<\/h2>$/;"	I	line:185	language:HTML
+mean-reversion-in-a-trading-framework	blogpost_after_kramdown-fix.html	/^<h2 id="mean-reversion-in-a-trading-framework">Mean-Reversion in a Trading Framework:<\/h2>$/;"	I	line:185	language:HTML
 mean-reversion-in-practice	blogpost.html	/^<h2 id="mean-reversion-in-practice">Mean-Reversion in Practice<\/h2>$/;"	I	line:155	language:HTML
 mean-reversion-in-practice	blogpost_after_fix.html	/^<h2 id="mean-reversion-in-practice">Mean-Reversion in Practice<\/h2>$/;"	I	line:168	language:HTML
+mean-reversion-in-practice	blogpost_after_kramdown-fix.html	/^<h2 id="mean-reversion-in-practice">Mean-Reversion in Practice<\/h2>$/;"	I	line:168	language:HTML
 mean-reversion-part-1	blogpost.html	/^    <h1 id="mean-reversion-part-1">Mean Reversion (Part 1)<\/h1>$/;"	I	line:51	language:HTML
 mean-reversion-part-1	blogpost_after_fix.html	/^    <h1 id="mean-reversion-part-1">Mean Reversion (Part 1)<\/h1>$/;"	I	line:64	language:HTML
+mean-reversion-part-1	blogpost_after_kramdown-fix.html	/^    <h1 id="mean-reversion-part-1">Mean Reversion (Part 1)<\/h1>$/;"	I	line:64	language:HTML
 nav-trigger	blogpost.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I	line:27	language:HTML
 nav-trigger	blogpost_after_fix.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I	line:40	language:HTML
+nav-trigger	blogpost_after_kramdown-fix.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I	line:40	language:HTML
 nyblom-makalainen-test-and-kpss-test	blogpost.html	/^<h2 id="nyblom-makalainen-test-and-kpss-test">Nyblom-Makala"inen Test and KPSS test<\/h2>$/;"	I	line:89	language:HTML
 nyblom-makalainen-test-and-kpss-test	blogpost_after_fix.html	/^<h2 id="nyblom-makalainen-test-and-kpss-test">Nyblom-Makala"inen Test and KPSS test<\/h2>$/;"	I	line:102	language:HTML
+nyblom-makalainen-test-and-kpss-test	blogpost_after_kramdown-fix.html	/^<h2 id="nyblom-makalainen-test-and-kpss-test">Nyblom-Makala"inen Test and KPSS test<\/h2>$/;"	I	line:102	language:HTML
 references	blogpost.html	/^<h3 id="references">References:<\/h3>$/;"	I	line:83	language:HTML
 references	blogpost_after_fix.html	/^<h3 id="references">References:<\/h3>$/;"	I	line:96	language:HTML
+references	blogpost_after_kramdown-fix.html	/^<h3 id="references">References:<\/h3>$/;"	I	line:96	language:HTML
 references-1	blogpost.html	/^<h3 id="references-1">References:<\/h3>$/;"	I	line:114	language:HTML
 references-1	blogpost_after_fix.html	/^<h3 id="references-1">References:<\/h3>$/;"	I	line:127	language:HTML
+references-1	blogpost_after_kramdown-fix.html	/^<h3 id="references-1">References:<\/h3>$/;"	I	line:127	language:HTML
 references-2	blogpost.html	/^<h3 id="references-2">References:<\/h3>$/;"	I	line:149	language:HTML
 references-2	blogpost_after_fix.html	/^<h3 id="references-2">References:<\/h3>$/;"	I	line:162	language:HTML
+references-2	blogpost_after_kramdown-fix.html	/^<h3 id="references-2">References:<\/h3>$/;"	I	line:162	language:HTML
 references-3	blogpost.html	/^<h2 id="references-3">References:<\/h2>$/;"	I	line:178	language:HTML
 references-3	blogpost_after_fix.html	/^<h2 id="references-3">References:<\/h2>$/;"	I	line:191	language:HTML
+references-3	blogpost_after_kramdown-fix.html	/^<h2 id="references-3">References:<\/h2>$/;"	I	line:191	language:HTML
 the-augmented-dickey-fuller-test-adf-test	blogpost.html	/^<h2 id="the-augmented-dickey-fuller-test-adf-test">The Augmented Dickey-Fuller Test (ADF Test)<\//;"	I	line:64	language:HTML
 the-augmented-dickey-fuller-test-adf-test	blogpost_after_fix.html	/^<h2 id="the-augmented-dickey-fuller-test-adf-test">The Augmented Dickey-Fuller Test (ADF Test)<\//;"	I	line:77	language:HTML
+the-augmented-dickey-fuller-test-adf-test	blogpost_after_kramdown-fix.html	/^<h2 id="the-augmented-dickey-fuller-test-adf-test">The Augmented Dickey-Fuller Test (ADF Test)<\//;"	I	line:77	language:HTML
 variance-ratio-tests	blogpost.html	/^<h2 id="variance-ratio-tests">Variance Ratio Tests<\/h2>$/;"	I	line:121	language:HTML
 variance-ratio-tests	blogpost_after_fix.html	/^<h2 id="variance-ratio-tests">Variance Ratio Tests<\/h2>$/;"	I	line:134	language:HTML
+variance-ratio-tests	blogpost_after_kramdown-fix.html	/^<h2 id="variance-ratio-tests">Variance Ratio Tests<\/h2>$/;"	I	line:134	language:HTML
