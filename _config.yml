@@ -11,3 +11,13 @@ plugins:
 
 # MathJax settings
 mathjax: true
+kramdown:
+  math_engine: mathjax
+  math_engine_opts:
+    preview: true
+    format_math: true
+kramdown:
+  math_engine: mathjax
+  math_engine_opts:
+    preview: true
+    format_math: true
