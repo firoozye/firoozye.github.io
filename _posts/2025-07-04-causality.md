@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Causality in Financial Markets"
+date:   2025-07-04 00:00:00 +0000
+categories: jekyll update
+---
+
 # Causality in Financial Markets
 
 Causality in financial markets refers to the relationship between different financial variables and how they influence each other. 
