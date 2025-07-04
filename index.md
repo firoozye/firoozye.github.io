@@ -1,5 +1,11 @@
 
+---
+layout: default
+---
+
 # Welcome to Dr Nick Firoozye's Homepage
+
+[Blog](/blog/)
 
 ## About Me
   - **Dr. Nick Firoozye** is a mathematician and finance professional with over 20 years of experience in research, structuring, and trading across buy and sell-side firms, including  Lehman Brothers, Deutsche Bank, Nomura, Goldman Sachs, and Citadel.  He specialises in areas ranging from Quant Strategy, RV Trading, to Asset Allocation.  Currently, Nick works at a mid-frequency trading prop firm based in Chicago. 

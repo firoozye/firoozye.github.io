@@ -1,0 +1,13 @@
+title: Dr. Nick Firoozye's Blog
+author: Dr. Nick Firoozye
+description: A blog about quantitative finance, machine learning, and algorithmic trading.
+url: "https://firoozye.github.io"
+github_username: firoozye
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# MathJax settings
+mathjax: true
