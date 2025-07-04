@@ -15,5 +15,3 @@ kramdown:
   math_engine: mathjax
   math_engine_opts:
     enable_dollar_delimiter: true
-    preview: true
-    format_math: true
