@@ -1,0 +1,135 @@
+# Mean Reversion (Part 1)
+
+Mean reversion is one of the most important time-series features in finance. Most relative value trades require some form of mean-reversion. 
+Most mid-frequency futures trading involve mean-reversion. Most market-making PnL is based on mean-reversion.
+
+We all know what it is. And in fact, it is usually possible to identify mean-reverting series. The _eyeball test_ just works. 
+If it crosses zero enough times, it probably mean-reverts. It can't wander. It can't drift off. It should find its way back down
+again whenever it's up, or find its way back up again whenever it's down.
+
+Eyeballs don't scale, though, so it is always handy to have a statistical test.
+
+For mean-reversion there are a few in common use:
+
+## The Augmented Dickey-Fuller Test (ADF Test)
+
+The idea is if it mean reverts, the AR(1) coefficient will be negative, i.e., 
+$$ \Delta y_t = \beta y_{t-1} + \gamma_1 \Delta y_{t-1} + \gamma_2  \Delta y_{t-2} + \ldots \Delta y{t-k}$$
+
+The extra terms with $\gamma$ are meant to model more complex time-series phenomena. The most important term is $\beta$ and we want to
+ensure $\beta<0$ (mean-reverting) vs $\beta=0$ (non-stationary). Typically we would choose to use a t-test for testing whether a coefficient is non-zero.
+But the typical t-distribution is meant to be the distribution of the t-test under the null-hypothesis. That works for regular regressions. But for time-series
+under the null hypothesis, the t-test does not have a T-distribution. Rather it has what is known as a Dickey-Fuller Distribution. This is only characterised in the large-sample limit (i.e, as 
+the time series sample size $T\rightarrow\inft$ or by simulation). In large-sample the distribution is characterised by 
+$$\hbox{ADF} \frac{\int W(t)dW(t)}{\int W^2(t)dt} $$
+
+
+The resulting test is known as the Augmented Dickey Fuller Test. It is known as a _unit-root test_ because the null-hypothesis $H_0: \beta=0$ corresponds to  a unit-root in the ARMA process, i.e.,
+$y_t = a_1  y_{t-1} +a_2 y_{t-2} + \cdots + a_k y_{t-k}$, that one the roots of the characteristic polynomial is on the unit circle, similar to a Brownian motion.
+ 
+In practice, since there are as many tests as there are lag-lengths $k$, automated ADF tests typically use a lag-length selection criterion, 
+such as the Akaike Information Criterion (AIC) or the Bayesian Information Criterion (BIC), to select the lag-length $k$.
+Only after the lag-length is selected, the ADF test is performed.
+
+### References:
+* [Augmented Dickey-Fuller Test](https://en.wikipedia.org/wiki/Augmented_Dickey%E2%80%93Fuller_test) is available in most statistical packages, including Python's `statsmodels` and R's `tseries` package.
+* [Dickey, D. A., & Fuller, W. A. (1979). Distribution of the estimators for autoregressive time series with a unit root. Journal of the American Statistical Association, 74(366a), 427-431.](https://www.jstor.org/stable/2286348)
+
+
+## Nyblom-Makala\"inen Test and KPSS test
+
+The other standard test for mean-reversion is the Nyblom-Makala\"inen test, available in most stats packages in its more common and general form, the _KPSS test_. 
+
+The standard version is based on a state-space model, 
+\begin{eqnarray*}
+y_t &= \mu_t + \epsilon_t\\
+\mu_{t} &= \mu_{t-1} +\delta_t
+\end{eqnarray*}
+
+where typically we assume $\epsilon_t\sim N(1,\sigma_\epsilon^2)$ and $\delta_t\sim N(0,\sigma_\delta^2)$. 
+We can see that $y$ has a unit root when $\sigma^2_\delta>0$. Consequently, the null-hypothesis for this mean-reversion test is that
+$$H_0: \sigma^2_\delta>0$$. The Nyblom-Makala\"inen test is a test for the null-hypothesis that the series is stationary, i.e., it does not have a unit root.
+This test was originally proposed by Nyblom and Makalainen in 1983, and it is also known as the KPSS test, after Kwiatkowski, Phillips, Schmidt, and Shin who popularised it in 1992.
+
+The test statistic is computed as follows: we estimate the state-space model, and then compute the residuals $\hat{\epsilon}_t$ from the model.
+Then we compute the test statistic as follows. Let $e(t)$ be the residuals from regressing $y_t$ on a constant.
+We then compute the partial sums $S_t = \sum_{s=1}^t e(s)$, and then the test statistic is given by
+where $T$ is the sample size.
+$$\hbox{KPSS} = \frac{1}{T^2} \sum_{t=1}^T \bigl(\sum_{s=1}^T \hat{\epsilon}_s\bigr)^2 / \sigma^2_\epsilon$$
+where $\sigma^2_\epsilon$ is the variance of the residuals $\hat{\epsilon}_t$ (i.e., the standard single period estimator).
+
+The KPSS test is a _stationarity test_ because the null-hypothesis $H_0: \sigma^2_\delta=0$ corresponds to the series being stationary, i.e., it does not have a unit root.o
+The large-sample limit of the KPSS test statistic is known, as well as approximate critical values for the test statistic.
+
+### References:
+* [KPSS test](https://en.wikipedia.org/wiki/KPSS_test) is available in most statistical packages, including Python's `statsmodels` and R's `tseries` package.
+* [Nyblom, M\"akel\"ainen, Comparisons of Tests for the Presence of Random Walk Coefficients in a Simple Linear Model, J AmStat (1983)](https://core.ac.uk/download/pdf/193347977.pdf)
+* [Kwiatkowski, Phillips, Schmidt, and Shin (1992), Testing the Null Hypothesis of Stationarity Against the Alternative of a Unit Root](https://www.jstor.org/stable/2290110) 
+
+
+## Variance Ratio Tests
+The variance ratio test is a test for mean-reversion based on the idea that if a series is mean-reverting, then the variance of the series should be smaller than the variance of a random walk.
+The variance ratio test is based on the idea that if a series is mean-reverting, then the variance of multi-period returns, when scaled should be smaller than the variance of a random walk.
+
+For a random walk, the variance of the $k$-period return is given by
+$$\hbox{Var}(y_{t+k}-y_t) = k \sigma^2$$
+where $\sigma^2$ is the variance of the series.
+The resulting test statistic is given by
+$$\hbox{VR} = \frac{\hbox{Var}(y_{t+k}-y_t)}{k \sigma^2}$$
+where $\sigma^2$ is the variance of the series. The null-hypothesis is that the series is a random walk, i.e., it does not mean-revert and under the null, it should be centered at 1. 
+k
+and the alternative hypothesis is that the series is mean-reverting. Lo and MacKinlay (1988) showed that the variance ratio test is a consistent test for mean-reversion, i.e.,
+it converges to the true value as the sample size increases. They also tabulated critical values for the test statistic, which can be used to determine whether the series is mean-reverting or not.
+
+Although the variance ratio test is not as widely used as the ADF or KPSS tests, it is still a useful tool for testing mean-reversion in time-series data and in some ways more intuitive.
+For every horizon $k$, we can compute a variance ratio. If it is close to 1, then the series is likely a random walk. If it is less than 1, then the series is likely mean-reverting , at least at this horizon.
+If it is higher than one, it may be trending, again over that horizon.  
+
+
+
+And while Lo and Macklay tabulated the critical values,
+the variance ratio itself, can be related to returns on MR trading strategies - typically the lower the VR, the better then mean-reversion strategy.
+We see this in practice for instance, in trading illiquid FX crosses. Typically liquid crosses (vs EUR, USD or JPY) have a VR close to 1, 
+while illiquid G10 crosses (e.g., CHF/NOK, GBP/SEK, CAD/D)  have a VR well below 1, indicating strong(er) mean-reversion.
+![Variance Ratio for Liquid and Illiquid FX crosses](VR_and_MR_total.png). We note that, in the picture, the critical value are more for reference than for specific testing. This is clear 
+when we fix the 30-day horizon (just as an example) and see that the lower the variance ratio, the better the Sharpe ratio of the mean-reversion strategy. 
+![Variance Ratio and Sharpe Ratio for 30-day MR strategy](VR_and_MR.png).
+
+We note that, in the strategy picture, we have not considered trading costs or slippage, which can be significant for mean-reversion strategies. 
+
+### References:
+* [Variance Ratio Test](https://en.wikipedia.org/wiki/Variance_ratio_test) is available in most statistical packages, including Python's `statsmodels` and R's `tseries` package.
+* [Lo, A. W., & MacKinlay, A. C. (1988). Stock market prices do not follow random walks: Evidence from a simple specification test. The Review of Financial Studies, 1(1), 41-66.](https://www.jstor.org/stable/2961990)
+
+
+## Mean-Reversion in Practice
+
+Mean-reversion strategies are ubiquitous. However, due top the fact that mean-reversion is a fast phenomenon, 
+transaction costs can be significant. 
+
+In terms of a trading strategy, we can think of a mean-reversion strategy as follows.
+1. Identify a mean-reverting series, e.g., using the ADF test or KPSS test.
+2. Compute the variance ratio for the series, e.g., using the variance ratio test.
+3. If the variance ratio is below a certain threshold, then we can consider the series to be mean-reverting, 
+formulating a strategy where we buy when the spread or asset is trading below its mean, and short it when it is trading above its mean.
+
+Typical weights may involve scaling into a long or a short linear relative to the distance from the mean,
+or capping and flooring the weights to avoid excessive exposure. Also it is possible to just buy or sell a fixed number of units,
+when the deviation meets a certain threshold.
+
+## Mean-Reversion in a Trading Framework:
+
+
+
+
+## Further Discussions:
+While mean-reversion (and the related concept of _Cointegration_, underpinning many pairs-trading and other stats-arb strategies)
+is a particularly important time-series feature, msost 
+
+
+## References:
+
+The overall trading framework is discussed in the introductory course, The Fundamentals of Algorithmic Trading, on the WBS Platform.
+
+For a much more detailed discussion, the Algorithmic Trading Certificate, which is available on the WBS Platform, covers the topic in much more detail, 
+including the statistical tests, the trading strategies, and the implementation details.
