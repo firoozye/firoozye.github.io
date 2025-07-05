@@ -1,6 +1,8 @@
-title: Dr. Nick Firoozye's Blog
+
+title: Objectively Random Blog (Jaynes stan)
 author: Dr. Nick Firoozye
-description: A blog about quantitative finance, machine learning, and algorithmic trading.
+description: A blog about quantitative finance, machine learning, and algorithmic trading,
+with naive forays into philosophy, science and programming.
 url: "https://firoozye.github.io"
 github_username: firoozye
 
@@ -11,5 +13,13 @@ plugins:
 
 # MathJax settings
 mathjax: true
+
+# Kramdown settings - prevent interference with math
 kramdown:
   math_engine: mathjax
+  math_engine_opts:
+    preview: true
+    preview_as_code: false
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true

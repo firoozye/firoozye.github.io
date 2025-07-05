@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.9.0"
+gem "jekyll", "~> 4.3"
 gem "minima", "~> 2.5"
-gem "jekyll-feed", "~> 0.12"
+gem "jekyll-feed", "~> 0.17"
+gem 'json', '~> 2.12.1'
