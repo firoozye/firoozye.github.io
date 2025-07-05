@@ -1,0 +1,17 @@
+source "https://rubygems.org"
+
+#gem "jekyll", "~> 4.3"
+#gem "minima", "~> 2.5"
+#gem "jekyll-feed", "~> 0.17"
+#gem 'json', '~> 2.12.1'
+
+
+
+# Use system-installed versions where possible
+gem "jekyll", "~> 4.0"
+gem "minima", "~> 2.5"
+
+# Optional plugins
+group :jekyll_plugins do
+  gem "jekyll-feed", "~> 0.12"
+end

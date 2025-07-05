@@ -14,7 +14,10 @@ plugins:
 # MathJax settings
 mathjax: true
 
+# Markdown settings for GitHub Pages
+markdown: kramdown
 # Kramdown settings - prevent interference with math
+# Markdown settings for GitHub Pages
 kramdown:
   math_engine: mathjax
   math_engine_opts:
@@ -23,3 +26,5 @@ kramdown:
   input: GFM
   hard_wrap: false
   parse_block_html: true
+  syntax_highlighter: rouge
+

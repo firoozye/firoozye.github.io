@@ -18,6 +18,9 @@
       macros: {
         hbox: ['\\text{#1}', 1]
       }
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
     },
     options: {
       ignoreHtmlClass: 'tex2jax_ignore',
