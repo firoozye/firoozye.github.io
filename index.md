@@ -1,9 +1,11 @@
 
 ---
 layout: default
+title: Dr Nick Firoozye's Homepage
+
 ---
 
-# Welcome to Dr Nick Firoozye's Homepage
+# Dr Nick Firoozye's Homepage
 
 [Blog](/blog/)
 
@@ -68,9 +70,14 @@ In summary, I am interested in
  - **Office**: [WFH] 
 
 ## Courses - Live, Hybrid, and Online
-  - [Algorithmic Trading MSc Course]:  Based on my previous online courses and further extended, this course covers the foundations of algorithmic trading, including market microstructure, trading strategies, and risk management. Offered at UCL for MSc Students every Sprint Term since 2018. Co-teacher: Dr Paolo Barucca.
-  - [Algorithmic Trading Certificate: A Practitioner's Guide]: Online course offered in medium sized cohorts, co-taught with Dr Brian Healey (UCL). [Linke to Course](https://wbstraining.com/course/algorithmic-trading-a-practitioners-guide/). This course is based on my MSc course and covers the foundations of algorithmic trading, including market microstructure, trading strategies, and risk management.
-  - [Algorithmic Trading: The Fundamentals]: An introductory self-paced course, covering the industry and the basics of algorithmic trading. [Link to Course](https://wbstraining.com/course/algorithmic-trading-the-fundamentals/). 
+  - [Algorithmic Trading MSc Course]:  Based on my previous online courses and further extended, 
+ this course covers the foundations of algorithmic trading, including market microstructure, trading strategies, and risk management. Offered at 
+ UCL for MSc Students every Spring Term since 2018. Co-teacher: Dr Paolo Barucca.
+  - [Algorithmic Trading Certificate (ATC): A Practitioner's Guide](https://www.wbstraining.com/events/algorithmic-trading-certificate/) 
+in WBS Training. Co-taught with Dr Brian Healy (UCL). Online course offered in medium sized cohorts.
+  This course is based on my MSc course and covers the foundations of algorithmic trading, 
+ including market microstructure, trading strategies, and risk management.
+  - [Fundamentals of Algorithmic Trading](https://quantshub.com/content/fundamentals-algorithmic-trading) : An introductory self-paced course, covering the industry and the basics of algorithmic trading. [Link to Course](https://wbstraining.com/course/algorithmic-trading-the-fundamentals/). 
 
 ## Books
   - [Quantitative Trading: A Systematic Approach] - A comprehensive guide to algorithmic trading, covering the foundations of quantitative trading strategies across styles and timescales. Together with Dr Brian Healey, under contract, CRC Press, expected publication in 2026.
@@ -81,7 +88,7 @@ In summary, I am interested in
  - [Twitter](https://twitter.com/firoozye)
  - [GitHub](https://github.com/firoozye)
  - [BlueSky](https://bluesky.social/@firoozye)
- - [Linktree (Links to All Online Presence)](https://linktr.ee/firoozye)
+ - [Linktree (Links to All Online Presence)](https://linktr.ee/NBfiroozye)
  
 
 ## Publications (Recent and Older Academic, and Sell-Side Research)
@@ -92,12 +99,9 @@ In summary, I am interested in
  5. [Academia.com (including sell-side research)](https://ucl.academia.edu/NikanNickFiroozye)
 
 ## Projects
- - [Project 1](link-to-project): Brief description
- - [Project 2](link-to-project): Brief description
+ - [Project 1](link-to-project): Reinforcement Learning in a Discrete Time setting for optimal market making and order placement (with Konark Jain).
+ - [Project 2](link-to-project): Robust Tuning of Online Learning Algorithms for Algorithmic Trading (with Daniel Cuhnha - Sao Paolo).
 
-## Teaching
- - [Course 1]: Brief description
- - [Course 2]: Brief description
 
 ## Links
  - [UCL Personal Page](link-to-ucl-page)
@@ -105,5 +109,5 @@ In summary, I am interested in
  - [ResearchGate](link-to-researchgate)
 
  ---
- Last updated: [11-06-2025]
+ Last updated: [7-07-2025]
 
