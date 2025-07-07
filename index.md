@@ -7,11 +7,13 @@
 
 [Blog](/blog/)
 
- ![NBF Headshot](images/nbfheadshot.jpg){: width="300"}
+ ![NBF Headshot](images/nbfheadshot.jpg){: width="200"}
 ## About Me
   - **Dr. Nick Firoozye** is a mathematician and finance professional with over 20 years of experience in research, structuring, and trading across buy and sell-side firms, including  Lehman Brothers, Deutsche Bank, Nomura, Goldman Sachs, and Citadel.  He specialises in areas ranging from Quant Strategy, RV Trading, to Asset Allocation.  Currently, Nick works at a mid-frequency trading prop firm based in Chicago. 
-   As an Honorary Professor at University College London, Nick developed the Algorithmic Trading Strategies course, which he has taught PhD and MSc students since 2016.  He has also created and taught several successful online versions of the class. He has supervised eight PhD students researching machine learning for algorithmic trading and finance, with several now working in AI, systematic trading, and quant research. Over 600 students have successfully completed the Master's and online courses. 
-   Nick co-authored the book _Managing Uncertainty, Mitigating Risk_, which addresses uncertainty in modelling financial crises. He holds a PhD from the Courant Institute, NYU, with postdoctoral positions at the University of Minnesota, Heriot-Watt University, the University of Bonn, and NYU. Before moving to Wall Street, Nick held a tenure-track Assistant Professorship at the University of Illinois, Urbana-Champaign.
+
+As an Honorary Professor at University College London, Nick developed the Algorithmic Trading Strategies course, which he has taught PhD and MSc students since 2016.  He has also created and taught several successful online versions of the class. He has supervised eight PhD students researching machine learning for algorithmic trading and finance, with several now working in AI, systematic trading, and quant research. Over 600 students have successfully completed the Master's and online courses. 
+
+Nick co-authored the book _Managing Uncertainty, Mitigating Risk_, which addresses uncertainty in modelling financial crises. He holds a PhD from the Courant Institute, NYU, with postdoctoral positions at the University of Minnesota, Heriot-Watt University, the University of Bonn, and NYU. Before moving to Wall Street, Nick held a tenure-track Assistant Professorship at the University of Illinois, Urbana-Champaign.
 
 ## Academic Information
  - **Institution**: University College London (UCL)
@@ -31,7 +33,10 @@
     - University of Sao Paolo PhD Student: Daniel Cunha-Oliveira
 
  - **Research Interests**: 
-Interested in ML, Computations Statistics, and AI, applied to Finance and especially to Algorithmic Trading. This necessarily involves time-series forecasting, using methods from Statistics, (Adaptive) Signal Processing, Econometrics, and Machine Learning. Also I have interests in portfolio allocation, and stochastic control / reinforcement learning for optimal execution. Recent areas of interest have been in random matrix theory for portfolio analysis, RL for optimal execution, bagging and boosting over-parameterised shallow nets for online learning to forecast prices in near real-time.
+Interested in ML, Computations Statistics, and AI, applied to Finance and especially to Algorithmic Trading. This necessarily involves time-series forecasting, using methods from Statistics, (Adaptive) Signal Processing, Econometrics, and Machine Learning. 
+
+ Also I have interests in portfolio allocation, and stochastic control / reinforcement learning for optimal execution. Recent areas of interest have been in random matrix theory for portfolio analysis, RL for optimal execution, bagging and boosting over-parameterised shallow nets for online learning to forecast prices in near real-time.
+
 In summary, I am interested in 
     - Financial Time-Series Analysis  
     - Time-series forecasting for low SNR, highly non-stationary signals.
@@ -54,7 +59,8 @@ In summary, I am interested in
     - Eurozone Crisis, Financial Crises, and the role of uncertainty in financial markets
     - Fixed Income derivatives, RV strategies, Macro Trading.
 
-## Work Experience:
+## Background:
+### Financial Experience:
   - **TradeLink Wordwide** (2024-Present)
   - **Exos Securities** (2019-2024)
   - **Exodus Point** (2018)
@@ -65,7 +71,21 @@ In summary, I am interested in
   - **Deutsche Bank** (2001-2006)
   - **Sanford Bernstein** (1999-2001)
   - **Lehman Brothers** (1995-1999)
+
+### Academic Experience:
   - **University of Illinois at Urbana-Champaign** (1994-1995) Assistant Professor (tenure-track), Mathematics. 
+  - **Postdocs**: IMA, Univ of Minn, Heriot-Watt University, University of Bonn, NYU. 
+
+### Awards and Grants
+  - NSF Mathematical Sciences Postdoctoral Fellowship 
+  - Courant Institute 50th Jubilee Fellow
+  - Wolfson Prize in Economics, Short-listed 2012 - Best Paper on the Break-up of the Euro.
+  - My work prompted the FSA to issue their _Dear CRO_ letter of 2010 asking for planning around risk-scenarios for Eurozone breakup and Greek Exit. 
+
+### Education:
+  - PhD, Courant Institute, NYU, advisor: Bob Kohn, Nonlinear Elasticity, Calculus of Variations.
+  - MS, Courant Institute, NYU
+  - BS, Harvey Mudd College, advisor: Stavros Busenberg.
 
 ## Contact Information
  - **UCL Email**: [n.firoozye@ucl.ac.uk]
@@ -74,19 +94,23 @@ In summary, I am interested in
 
 ## Courses - Live, Hybrid, and Online
 ### University Teaching
-  - [COMP0051: Algorithmic Trading MSc Course](https://www.ucl.ac.uk/module-catalogue/modules/algorithmic-trading-COMP0051) :  Based on my previous online courses and further extended, 
+  - [COMP0051: Algorithmic Trading MSc Course](
+ https://www.ucl.ac.uk/module-catalogue/modules/algorithmic-trading-COMP0051) :  Based on my previous online courses and further extended, 
  this course covers the foundations of algorithmic trading, including market microstructure, trading strategies, and risk management. Offered at 
  UCL for MSc Students every Spring Term since 2018. Co-teacher: Dr Paolo Barucca.
   - Note that this class was devised initially as an PhD reading course in 2015, and later taught online 
  pre-recorded and live versions in Experfy, with live classes at WBS Training and at QuantsHub. 
+
  I then attempted to launch as an MSc course in 2017 with Julian Bonart. After his departure for Citadel, 
- it was launched with Paolo Barucca in 2018. We have run this course for over five years running - 2018/2019-2023/24. I am offering an intensive version of this course through WBSTraining, which will cover the practicalities of Algorithmic Trading including information needed to launch a fund.</p>
+ it was launched with Paolo Barucca in 2018. We have run this course for over five years running - 2018/2019-2023/24. I am offering an intensive version of this course through WBSTraining, which will cover the practicalities of Algorithmic Trading including information needed for setting up the quant functions in a fund.
 
 ### Online Hybrid and Pre-recorded Teaching
   - [Algorithmic Trading Certificate (ATC): A Practitioner's Guide](https://www.wbstraining.com/events/algorithmic-trading-certificate/) 
 in WBS Training. Co-taught with Dr Brian Healy (UCL). Online course offered in medium sized cohorts.
   This course is based on my MSc course and covers the foundations of algorithmic trading, 
- including market microstructure, trading strategies, and risk management.
+ including market microstructure, trading strategies, and risk management. Students who have taken this course
+ have gone on to new roles in sell-side and buy-side quant and algo trading functions, or used their new skills to manage their PAs.
+
   - [Fundamentals of Algorithmic Trading](https://quantshub.com/content/fundamentals-algorithmic-trading): 
  An introductory self-paced course, covering the industry and the basics of algorithmic trading. 
 
@@ -96,7 +120,7 @@ in WBS Training. Co-taught with Dr Brian Healy (UCL). Online course offered in m
 ## Books
   - [Managing Uncertainty, Mitigating Risk](https://www.amazon.co.uk/Managing-Uncertainty-Mitigating-Risk-Assessment/dp/1137334533): A book on the role of uncertainty in financial markets, covering the Eurozone crisis, financial crises, and the impact of uncertainty on trading strategies.  
  Coauthored with Fauziah Ariff. Wiley 2017.
-  - [Quantitative Trading: A Systematic Approach] - A comprehensive guide to algorithmic trading, covering the foundations of quantitative trading strategies across styles and timescales. 
+  - [Quantitative Trading: A Systematic Approach](link-to-book-NA) - A comprehensive guide to algorithmic trading, covering the foundations of quantitative trading strategies across styles and timescales. 
  Together with Dr Brian Healy, under contract, CRC Press, expected publication in 2027.
 
 ## Social Media and Online Presence
@@ -108,18 +132,20 @@ in WBS Training. Co-taught with Dr Brian Healy (UCL). Online course offered in m
  - [Linktree (Links to All Online Presence)](https://linktr.ee/NBfiroozye)
  
 
-## Publications (Recent and Older Academic, and Sell-Side Research)
- 1. [ORCID](https://orcid.org/0000-0002-6460-0406)
- 2. [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=N3DhLMUAAAAJ)
- 3. [ResearchGate](https://www.researchgate.net/profile/Nick-Firoozye)
- 4. [arXiv](https://arxiv.org/a/firoozye_n_1.html)
- 5. [Academia.com (including sell-side research)](https://ucl.academia.edu/NikanNickFiroozye)
+## Publications (Recent and Older Academic, and Sell-Side Research
+### Recent (Algo Trading) and Older (Nonlinear PDEs) work
+ - [ORCID](https://orcid.org/0000-0002-6460-0406)
+ - [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=N3DhLMUAAAAJ)
+ - [arXiv](https://arxiv.org/a/firoozye_n_1.html)
+ - [ResearchGate](https://www.researchgate.net/profile/Nick-Firoozye)
+### Sell-Side Research & Academic Research 
+ - [Academia.com (including sell-side research)](https://ucl.academia.edu/NikanNickFiroozye)
 
-## Projects
- - [Project 1](link-to-project): Reinforcement Learning in a Discrete Time setting for optimal market making and order placement (with Konark Jain).
- - [Project 2](link-to-project): Robust Tuning of Online Learning Algorithms for Algorithmic Trading (with Daniel Cuhnha - Sao Paolo).
-
-
+## Current Projects
+ - [Project 1](link-to-project): Reinforcement Learning in a Discrete Time setting for optimal market making and order placement (with Konark Jain, UCL and JP Morgan).
+ - [Project 2](link-to-project): Robust Tuning of Strategies for Algorithmic Trading (with Daniel Cuhnha - Universidad Sao Paolo).
+ - [Project 3](link-to-project): Time-series Prediction in the presence of Regime Shifts using SSMs, RNNs & Multi-modal models (with Zhicheng Xu, UCL).
+ - [Project 4](link-to-project): Fast Adaptive Benign Overparmeterisation (FABO) - Double descent in online learning. Ongoing work with MSc students since 2022. Fast updates of RFF models capturing nonlinearity (using 100+ time-steps but 3k+ or more features with sub-second updates)
 
  ---
  Last updated: [7-07-2025]
