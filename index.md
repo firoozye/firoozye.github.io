@@ -9,11 +9,11 @@
 
  ![NBF Headshot](images/nbfheadshot.jpg){: width="200"}
 ## About Me
-  - **Dr. Nick Firoozye** is a mathematician and finance professional with over 20 years of experience in research, structuring, and trading across buy and sell-side firms, including  Lehman Brothers, Deutsche Bank, Nomura, Goldman Sachs, and Citadel.  He specialises in areas ranging from Quant Strategy, RV Trading, to Asset Allocation.  Currently, Nick works at a mid-frequency trading prop firm based in Chicago. 
+ **Dr. Nick Firoozye** is a mathematician and finance professional with over 20 years of experience in research, structuring, and trading across buy and sell-side firms, including  Lehman Brothers, Deutsche Bank, Nomura, Goldman Sachs, and Citadel.  He specialises in areas ranging from Quant Strategy, RV Trading, to Asset Allocation.  Currently, Nick works at a mid-frequency trading prop firm based in Chicago. 
 
-As an Honorary Professor at University College London, Nick developed the Algorithmic Trading Strategies course, which he has taught PhD and MSc students since 2016.  He has also created and taught several successful online versions of the class. He has supervised eight PhD students researching machine learning for algorithmic trading and finance, with several now working in AI, systematic trading, and quant research. Over 600 students have successfully completed the Master's and online courses. 
+ As an Honorary Professor at University College London, Nick developed the Algorithmic Trading Strategies course, which he has taught PhD and MSc students since 2016.  He has also created and taught several successful online versions of the class. He has supervised eight PhD students researching machine learning for algorithmic trading and finance, with several now working in AI, systematic trading, and quant research. Over 600 students have successfully completed the Master's and online courses. 
 
-Nick co-authored the book _Managing Uncertainty, Mitigating Risk_, which addresses uncertainty in modelling financial crises. He holds a PhD from the Courant Institute, NYU, with postdoctoral positions at the University of Minnesota, Heriot-Watt University, the University of Bonn, and NYU. Before moving to Wall Street, Nick held a tenure-track Assistant Professorship at the University of Illinois, Urbana-Champaign.
+ Nick co-authored the book _Managing Uncertainty, Mitigating Risk_, which addresses uncertainty in modelling financial crises. He holds a PhD from the Courant Institute, NYU, with postdoctoral positions at the University of Minnesota, Heriot-Watt University, the University of Bonn, and NYU. Before moving to Wall Street, Nick held a tenure-track Assistant Professorship at the University of Illinois, Urbana-Champaign.
 
 ## Academic Information
  - **Institution**: University College London (UCL)
@@ -38,19 +38,19 @@ Interested in ML, Computations Statistics, and AI, applied to Finance and especi
  Also I have interests in portfolio allocation, and stochastic control / reinforcement learning for optimal execution. Recent areas of interest have been in random matrix theory for portfolio analysis, RL for optimal execution, bagging and boosting over-parameterised shallow nets for online learning to forecast prices in near real-time.
 
 In summary, I am interested in 
-    - Financial Time-Series Analysis  
-    - Time-series forecasting for low SNR, highly non-stationary signals.
-    - Change-point detection / regime-switching
-    - Data Augmentation
-    - Overparameterised Models and Ensembling
-    - Adaptive forecasting and State-space models
-    - Kernel methods and DNN for forecasting 
-    - Online Learning & Adaptive Filtering, Fast Algorithms
-    - Optimal Allocation
-    - Order book simulation, Optimal Order Placement, Optimal Market Making
-    - Algorithmic Trading, High Frequency Trading, Market Microstructure, 
-    - Reinforcement Learning / Stochastic Control
-    - Machine Learning, Deep Learning, Statistical Learning, Bayesian Methods
+  - Financial Time-Series Analysis  
+  - Time-series forecasting for low SNR, highly non-stationary signals.
+  - Change-point detection / regime-switching
+  - Data Augmentation
+  - Overparameterised Models and Ensembling
+  - Adaptive forecasting and State-space models
+  - Kernel methods and DNN for forecasting 
+  - Online Learning & Adaptive Filtering, Fast Algorithms
+  - Optimal Allocation
+  - Order book simulation, Optimal Order Placement, Optimal Market Making
+  - Algorithmic Trading, High Frequency Trading, Market Microstructure, 
+  - Reinforcement Learning / Stochastic Control
+  - Machine Learning, Deep Learning, Statistical Learning, Bayesian Methods
 
  - **Other interests**: 
     - Calculus of Variations and Nonlinear PDE, Elasticity
@@ -69,23 +69,23 @@ In summary, I am interested in
   - **Citadel** (2007-2009)
   - **Goldman Sachs** (2006-2007)
   - **Deutsche Bank** (2001-2006)
-  - **Sanford Bernstein** (1999-2001)
+  - **Sanford Bernstein & Alliance-Bernstein** (1999-2001)
   - **Lehman Brothers** (1995-1999)
 
 ### Academic Experience:
   - **University of Illinois at Urbana-Champaign** (1994-1995) Assistant Professor (tenure-track), Mathematics. 
-  - **Postdocs**: IMA, Univ of Minn, Heriot-Watt University, University of Bonn, NYU. 
+  - **Postdocs**: (1990-94) IMA, Univ of Minn, Heriot-Watt University, University of Bonn, NYU. 
 
 ### Awards and Grants
-  - NSF Mathematical Sciences Postdoctoral Fellowship 
-  - Courant Institute 50th Jubilee Fellow
+  - NSF Mathematical Sciences Postdoctoral Fellowship, 1990-1993
+  - Courant Institute 50th Jubilee Fellow, 1986
   - Wolfson Prize in Economics, Short-listed 2012 - Best Paper on the Break-up of the Euro.
   - My work prompted the FSA to issue their _Dear CRO_ letter of 2010 asking for planning around risk-scenarios for Eurozone breakup and Greek Exit. 
 
 ### Education:
-  - PhD, Courant Institute, NYU, advisor: Bob Kohn, Nonlinear Elasticity, Calculus of Variations.
+  - PhD, Courant Institute, NYU, 1990, advisor: Bob Kohn, Nonlinear Elasticity, Calculus of Variations.
   - MS, Courant Institute, NYU
-  - BS, Harvey Mudd College, advisor: Stavros Busenberg.
+  - BS, Harvey Mudd College, 1986, advisor: Stavros Busenberg.
 
 ## Contact Information
  - **UCL Email**: [n.firoozye@ucl.ac.uk]
