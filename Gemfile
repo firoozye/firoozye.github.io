@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 # GitHub Pages gem
 gem "github-pages", group: :jekyll_plugins
+gem "jekyll-remote-theme", "~> 0.4.3", group: :jekyll_plugins
 
 # Optional plugins
 group :jekyll_plugins do

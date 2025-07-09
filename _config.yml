@@ -1,5 +1,5 @@
 
-title: Objectively Random Blog (Jaynes stan)
+title: Dr. Nick Firoozye (Objectively Random)
 author: Dr. Nick Firoozye
 description: "A blog about quantitative finance, machine learning, and algorithmic trading, with naive forays into philosophy, science and programming."
 url: "https://firoozye.github.io"
@@ -9,6 +9,10 @@ github_username: firoozye
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+remote_theme: ngzhio/jekyll-theme-hamilton
 
 # MathJax settings
 mathjax: true
