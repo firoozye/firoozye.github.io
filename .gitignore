@@ -4,3 +4,4 @@ blogpost.html
 *.log
 *.xlsx
 *.xlsx#
+_site/

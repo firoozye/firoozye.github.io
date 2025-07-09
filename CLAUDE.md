@@ -32,17 +32,27 @@ This is a Jekyll-based GitHub Pages site for Dr. Nick Firoozye's academic and pr
 
 ## Common Development Commands
 
-### Local Development
+### Local Development Setup
 ```bash
+# Initialize rbenv in shell (add to ~/.bashrc for persistence)
+export PATH="$HOME/.rbenv/bin:$PATH"
+eval "$(rbenv init -)"
+
 # Install dependencies
 bundle install
 
 # Serve locally for development
-bundle exec jekyll serve
+bundle exec jekyll serve --host 0.0.0.0 --port 4001
 
 # Build the site
 bundle exec jekyll build
 ```
+
+### Ruby Environment Management
+This project uses rbenv for Ruby version management:
+- Ruby version: 3.2.3 (managed by rbenv)
+- Bundler handles gem dependencies
+- Local gems installed in `vendor/bundle`
 
 ### Content Management
 ```bash
