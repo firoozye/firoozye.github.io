@@ -9,7 +9,7 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	5.9.0	//
-ADF:	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h3 id="adf">ADF:<\/h3>$/;"	j	line:336	language:HTML
+ADF:	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h3 id="adf">ADF:<\/h3>$/;"	j	line:338	language:HTML
 About Me	_site/index.html	/^<h2 id="about-me">About Me<\/h2>$/;"	i	line:122	language:HTML
 Academic Content	_site/CLAUDE.html	/^<h3 id="academic-content">Academic Content<\/h3>$/;"	j	line:258	language:HTML
 Academic Experience:	_site/index.html	/^<h3 id="academic-experience">Academic Experience:<\/h3>$/;"	j	line:198	language:HTML
@@ -49,7 +49,7 @@ Dr Nikan Firoozye	_site/index_old.html	/^	<h1>Dr Nikan Firoozye<\/h1>$/;"	h	line
 Dr Nikan Firoozye	index_old.html	/^	<h1>Dr Nikan Firoozye<\/h1>$/;"	h	line:7	language:HTML
 Education:	_site/index.html	/^<h3 id="education">Education:<\/h3>$/;"	j	line:215	language:HTML
 Financial Experience:	_site/index.html	/^<h3 id="financial-experience">Financial Experience:<\/h3>$/;"	j	line:184	language:HTML
-Further Discussion:	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h2 id="further-discussion">Further Discussion:<\/h2>$/;"	i	line:309	language:HTML
+Further Discussion:	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h2 id="further-discussion">Further Discussion:<\/h2>$/;"	i	line:311	language:HTML
 GitHub Pages Deployment	_site/CLAUDE.html	/^<h3 id="github-pages-deployment">GitHub Pages Deployment<\/h3>$/;"	j	line:234	language:HTML
 Granger Causality	_site/jekyll/update/2025/07/04/causality.html	/^<h2 id="granger-causality">Granger Causality<\/h2>$/;"	i	line:132	language:HTML
 Honorary Reader	_site/index_old.html	/^	<h2>Honorary Reader<\/h2> <img src= "nbfheadshot.jpg" width="200" height="200" alt="Dr Nikan Fi/;"	i	line:8	language:HTML
@@ -57,7 +57,7 @@ Honorary Reader	index_old.html	/^	<h2>Honorary Reader<\/h2> <img src= "nbfheadsh
 Images	_site/CLAUDE.html	/^<h3 id="images">Images<\/h3>$/;"	j	line:251	language:HTML
 Important Files	_site/CLAUDE.html	/^<h2 id="important-files">Important Files<\/h2>$/;"	i	line:196	language:HTML
 Inline Math	_site/test/2025/07/05/test-post.html	/^<h2 id="inline-math">Inline Math<\/h2>$/;"	i	line:125	language:HTML
-Introduction	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h1 id="introduction">Introduction<\/h1>$/;"	h	line:125	language:HTML
+Introduction	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h1 id="introduction">Introduction<\/h1>$/;"	h	line:127	language:HTML
 Jekyll Configuration	_site/CLAUDE.html	/^<h3 id="jekyll-configuration">Jekyll Configuration<\/h3>$/;"	j	line:127	language:HTML
 Key Architecture	_site/CLAUDE.html	/^<h2 id="key-architecture">Key Architecture<\/h2>$/;"	i	line:125	language:HTML
 Local Development Setup	_site/CLAUDE.html	/^<h3 id="local-development-setup">Local Development Setup<\/h3>$/;"	j	line:160	language:HTML
@@ -71,17 +71,19 @@ MathJax-script	_site/FinlTimeSeriesAppendix.html	/^<script type="text\/javascrip
 MathJax-script	_site/blog/index.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:52	language:HTML
 MathJax-script	_site/index.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:52	language:HTML
 MathJax-script	_site/jekyll/update/2025/07/04/causality.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:53	language:HTML
-MathJax-script	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:53	language:HTML
+MathJax-script	_site/local_serve.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:52	language:HTML
+MathJax-script	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:53	language:HTML
+MathJax-script	_site/otheri_links.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:52	language:HTML
 MathJax-script	_site/test/2025/07/05/test-post.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:53	language:HTML
-Mean-Reversion in Practice	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h2 id="mean-reversion-in-practice">Mean-Reversion in Practice<\/h2>$/;"	i	line:260	language:HTML
-Mean-Reversion in a Trading Framework:	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h2 id="mean-reversion-in-a-trading-framework">Mean-Reversion in a Trading Framework:<\/h2>$/;"	i	line:294	language:HTML
-N-M and KPSS:	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h3 id="n-m-and-kpss">N-M and KPSS:<\/h3>$/;"	j	line:344	language:HTML
-Nyblom-Mäkaläinen Test and KPSS Test	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h2 id="nyblom-mäkaläinen-test-and-kpss-test">Nyblom-Mäkaläinen Test and KPSS Test<\/h2>$/;"	i	line:180	language:HTML
+Mean-Reversion in Practice	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h2 id="mean-reversion-in-practice">Mean-Reversion in Practice<\/h2>$/;"	i	line:262	language:HTML
+Mean-Reversion in a Trading Framework:	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h2 id="mean-reversion-in-a-trading-framework">Mean-Reversion in a Trading Framework:<\/h2>$/;"	i	line:296	language:HTML
+N-M and KPSS:	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h3 id="n-m-and-kpss">N-M and KPSS:<\/h3>$/;"	j	line:346	language:HTML
+Nyblom-Mäkaläinen Test and KPSS Test	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h2 id="nyblom-mäkaläinen-test-and-kpss-test">Nyblom-Mäkaläinen Test and KPSS Test<\/h2>$/;"	i	line:182	language:HTML
 Online Hybrid and Pre-recorded Teaching	_site/index.html	/^<h3 id="online-hybrid-and-pre-recorded-teaching">Online Hybrid and Pre-recorded Teaching<\/h3>$/;"	j	line:240	language:HTML
 Publications (Recent and Older Academic, and Sell-Side Research	_site/index.html	/^<h2 id="publications-recent-and-older-academic-and-sell-side-research">Publications (Recent and /;"	i	line:265	language:HTML
 Recent (Algo Trading) and Older (Nonlinear PDEs)	_site/index.html	/^<h3 id="recent-algo-trading-and-older-nonlinear-pdes">Recent (Algo Trading) and Older (Nonlinear/;"	j	line:267	language:HTML
-Recommended Courses:	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h2 id="recommended-courses">Recommended Courses:<\/h2>$/;"	i	line:362	language:HTML
-References and Further Reading	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h2 id="references-and-further-reading">References and Further Reading<\/h2>$/;"	i	line:334	language:HTML
+Recommended Courses:	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h2 id="recommended-courses">Recommended Courses:<\/h2>$/;"	i	line:364	language:HTML
+References and Further Reading	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h2 id="references-and-further-reading">References and Further Reading<\/h2>$/;"	i	line:336	language:HTML
 References:	_site/FinlTimeSeriesAppendix.html	/^<h3 id="references">References:<\/h3>$/;"	j	line:130	language:HTML
 Repository Overview	_site/CLAUDE.html	/^<h2 id="repository-overview">Repository Overview<\/h2>$/;"	i	line:121	language:HTML
 Ruby Environment Management	_site/CLAUDE.html	/^<h3 id="ruby-environment-management">Ruby Environment Management<\/h3>$/;"	j	line:175	language:HTML
@@ -90,20 +92,20 @@ Site Structure	_site/CLAUDE.html	/^<h3 id="site-structure">Site Structure<\/h3>$
 Social Media and Online Presence	_site/index.html	/^<h2 id="social-media-and-online-presence">Social Media and Online Presence<\/h2>$/;"	i	line:294	language:HTML
 Testing MathJax on GitHub Pages	_site/blog/index.html	/^      <p><h1 id="testing-mathjax-on-github-pages">Testing MathJax on GitHub Pages<\/h1>$/;"	h	line:130	language:HTML
 Testing MathJax on GitHub Pages	_site/test/2025/07/05/test-post.html	/^    <h1 id="testing-mathjax-on-github-pages">Testing MathJax on GitHub Pages<\/h1>$/;"	h	line:123	language:HTML
-The Augmented Dickey-Fuller Test (ADF Test)	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h2 id="the-augmented-dickey-fuller-test-adf-test">The Augmented Dickey-Fuller Test (ADF Test)<\//;"	i	line:138	language:HTML
+The Augmented Dickey-Fuller Test (ADF Test)	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h2 id="the-augmented-dickey-fuller-test-adf-test">The Augmented Dickey-Fuller Test (ADF Test)<\//;"	i	line:140	language:HTML
 Theme Customization	_site/CLAUDE.html	/^<h3 id="theme-customization">Theme Customization<\/h3>$/;"	j	line:227	language:HTML
-Trading Mean Reversion (Part 1 - Introduction and Statistical Tests)	_site/blog/index.html	/^      <h3><a href="\/jekyll\/update\/2025\/07\/08\/mean_rev_1.html">Trading Mean Reversion (Part/;"	j	line:122	language:HTML
-Trading Mean Reversion (Part 1 - Introduction and Statistical Tests)	_site/index.html	/^        <\/h2>$/;"	i	line:315	language:HTML
-Trading Mean Reversion (Part 1 - Introduction and Statistical Tests)	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^    <h1 class="post-title p-name" itemprop="name headline">Trading Mean Reversion (Part 1 - Intr/;"	h	line:115	language:HTML
+Trading Mid-Frequency and RV like a Pro (Part 1): Identifying Mean-Reversion with Statistical Tests	_site/blog/index.html	/^      <h3><a href="\/mean-reversion,\/algorithmic\/trading,\/statistical\/tests,\/trading\/strat/;"	j	line:122	language:HTML
+Trading Mid-Frequency and RV like a Pro (Part 1): Identifying Mean-Reversion with Statistical Tests	_site/index.html	/^        <\/h2>$/;"	i	line:315	language:HTML
+Trading Mid-Frequency and RV like a Pro (Part 1): Identifying Mean-Reversion with Statistical Tests	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^    <h1 class="post-title p-name" itemprop="name headline">Trading Mid-Frequency and RV like a P/;"	h	line:115	language:HTML
 University Teaching	_site/index.html	/^<h3 id="university-teaching">University Teaching<\/h3>$/;"	j	line:230	language:HTML
 Variance Ratio	_site/test/2025/07/05/test-post.html	/^<h2 id="variance-ratio">Variance Ratio<\/h2>$/;"	i	line:155	language:HTML
-Variance Ratio Tests	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h2 id="variance-ratio-tests">Variance Ratio Tests<\/h2>$/;"	i	line:227	language:HTML
-Variance Ratio:	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h3 id="variance-ratio">Variance Ratio:<\/h3>$/;"	j	line:355	language:HTML
+Variance Ratio Tests	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h2 id="variance-ratio-tests">Variance Ratio Tests<\/h2>$/;"	i	line:229	language:HTML
+Variance Ratio:	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h3 id="variance-ratio">Variance Ratio:<\/h3>$/;"	j	line:357	language:HTML
 about-me	_site/index.html	/^<h2 id="about-me">About Me<\/h2>$/;"	I	line:122	language:HTML
 academic-content	_site/CLAUDE.html	/^<h3 id="academic-content">Academic Content<\/h3>$/;"	I	line:258	language:HTML
 academic-experience	_site/index.html	/^<h3 id="academic-experience">Academic Experience:<\/h3>$/;"	I	line:198	language:HTML
 academic-information	_site/index.html	/^<h2 id="academic-information">Academic Information<\/h2>$/;"	I	line:129	language:HTML
-adf	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h3 id="adf">ADF:<\/h3>$/;"	I	line:336	language:HTML
+adf	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h3 id="adf">ADF:<\/h3>$/;"	I	line:338	language:HTML
 aligned-equations	_site/test/2025/07/05/test-post.html	/^<h2 id="aligned-equations">Aligned Equations<\/h2>$/;"	I	line:135	language:HTML
 appendix---financial-time-series-features	_site/FinlTimeSeriesAppendix.html	/^<h2 id="appendix---financial-time-series-features">Appendix - Financial Time-Series Features<\/h/;"	I	line:118	language:HTML
 assets	_site/CLAUDE.html	/^<h3 id="assets">Assets<\/h3>$/;"	I	line:212	language:HTML
@@ -131,29 +133,29 @@ display-math	_site/test/2025/07/05/test-post.html	/^<h2 id="display-math">Displa
 dr-nick-firoozyes-homepage	_site/index.html	/^<h1 id="dr-nick-firoozyes-homepage">Dr Nick Firoozye’s Homepage<\/h1>$/;"	I	line:117	language:HTML
 education	_site/index.html	/^<h3 id="education">Education:<\/h3>$/;"	I	line:215	language:HTML
 financial-experience	_site/index.html	/^<h3 id="financial-experience">Financial Experience:<\/h3>$/;"	I	line:184	language:HTML
-further-discussion	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h2 id="further-discussion">Further Discussion:<\/h2>$/;"	I	line:309	language:HTML
+further-discussion	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h2 id="further-discussion">Further Discussion:<\/h2>$/;"	I	line:311	language:HTML
 github-pages-deployment	_site/CLAUDE.html	/^<h3 id="github-pages-deployment">GitHub Pages Deployment<\/h3>$/;"	I	line:234	language:HTML
 granger-causality	_site/jekyll/update/2025/07/04/causality.html	/^<h2 id="granger-causality">Granger Causality<\/h2>$/;"	I	line:132	language:HTML
 images	_site/CLAUDE.html	/^<h3 id="images">Images<\/h3>$/;"	I	line:251	language:HTML
 important-files	_site/CLAUDE.html	/^<h2 id="important-files">Important Files<\/h2>$/;"	I	line:196	language:HTML
 inline-math	_site/test/2025/07/05/test-post.html	/^<h2 id="inline-math">Inline Math<\/h2>$/;"	I	line:125	language:HTML
-introduction	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h1 id="introduction">Introduction<\/h1>$/;"	I	line:125	language:HTML
+introduction	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h1 id="introduction">Introduction<\/h1>$/;"	I	line:127	language:HTML
 jekyll-configuration	_site/CLAUDE.html	/^<h3 id="jekyll-configuration">Jekyll Configuration<\/h3>$/;"	I	line:127	language:HTML
 key-architecture	_site/CLAUDE.html	/^<h2 id="key-architecture">Key Architecture<\/h2>$/;"	I	line:125	language:HTML
 local-development-setup	_site/CLAUDE.html	/^<h3 id="local-development-setup">Local Development Setup<\/h3>$/;"	I	line:160	language:HTML
 mathjax-integration	_site/CLAUDE.html	/^<h3 id="mathjax-integration">MathJax Integration<\/h3>$/;"	I	line:220	language:HTML
-mean-reversion-in-a-trading-framework	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h2 id="mean-reversion-in-a-trading-framework">Mean-Reversion in a Trading Framework:<\/h2>$/;"	I	line:294	language:HTML
-mean-reversion-in-practice	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h2 id="mean-reversion-in-practice">Mean-Reversion in Practice<\/h2>$/;"	I	line:260	language:HTML
-n-m-and-kpss	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h3 id="n-m-and-kpss">N-M and KPSS:<\/h3>$/;"	I	line:344	language:HTML
+mean-reversion-in-a-trading-framework	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h2 id="mean-reversion-in-a-trading-framework">Mean-Reversion in a Trading Framework:<\/h2>$/;"	I	line:296	language:HTML
+mean-reversion-in-practice	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h2 id="mean-reversion-in-practice">Mean-Reversion in Practice<\/h2>$/;"	I	line:262	language:HTML
+n-m-and-kpss	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h3 id="n-m-and-kpss">N-M and KPSS:<\/h3>$/;"	I	line:346	language:HTML
 nsa17ebafb0101	_site/feed.xml	/^<?xml version="1.0" encoding="utf-8"?><feed xmlns="http:\/\/www.w3.org\/2005\/Atom" ><generator /;"	n	line:1	language:XML	uri:http://www.w3.org/2005/Atom
 nsd0b6adda0101	_site/sitemap.xml	/^<urlset xmlns:xsi="http:\/\/www.w3.org\/2001\/XMLSchema-instance" xsi:schemaLocation="http:\/\/w/;"	n	line:2	language:XML	uri:http://www.sitemaps.org/schemas/sitemap/0.9
-nyblom-mäkaläinen-test-and-kpss-test	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h2 id="nyblom-mäkaläinen-test-and-kpss-test">Nyblom-Mäkaläinen Test and KPSS Test<\/h2>$/;"	I	line:180	language:HTML
+nyblom-mäkaläinen-test-and-kpss-test	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h2 id="nyblom-mäkaläinen-test-and-kpss-test">Nyblom-Mäkaläinen Test and KPSS Test<\/h2>$/;"	I	line:182	language:HTML
 online-hybrid-and-pre-recorded-teaching	_site/index.html	/^<h3 id="online-hybrid-and-pre-recorded-teaching">Online Hybrid and Pre-recorded Teaching<\/h3>$/;"	I	line:240	language:HTML
 publications-recent-and-older-academic-and-sell-side-research	_site/index.html	/^<h2 id="publications-recent-and-older-academic-and-sell-side-research">Publications (Recent and /;"	I	line:265	language:HTML
 recent-algo-trading-and-older-nonlinear-pdes	_site/index.html	/^<h3 id="recent-algo-trading-and-older-nonlinear-pdes">Recent (Algo Trading) and Older (Nonlinear/;"	I	line:267	language:HTML
-recommended-courses	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h2 id="recommended-courses">Recommended Courses:<\/h2>$/;"	I	line:362	language:HTML
+recommended-courses	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h2 id="recommended-courses">Recommended Courses:<\/h2>$/;"	I	line:364	language:HTML
 references	_site/FinlTimeSeriesAppendix.html	/^<h3 id="references">References:<\/h3>$/;"	I	line:130	language:HTML
-references-and-further-reading	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h2 id="references-and-further-reading">References and Further Reading<\/h2>$/;"	I	line:334	language:HTML
+references-and-further-reading	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h2 id="references-and-further-reading">References and Further Reading<\/h2>$/;"	I	line:336	language:HTML
 repository-overview	_site/CLAUDE.html	/^<h2 id="repository-overview">Repository Overview<\/h2>$/;"	I	line:121	language:HTML
 ruby-environment-management	_site/CLAUDE.html	/^<h3 id="ruby-environment-management">Ruby Environment Management<\/h3>$/;"	I	line:175	language:HTML
 sell-side-research--academic-research	_site/index.html	/^<h3 id="sell-side-research--academic-research">Sell-Side Research &amp; Academic Research<\/h3>$/;"	I	line:279	language:HTML
@@ -162,23 +164,27 @@ site-main	_site/FinlTimeSeriesAppendix.html	/^        <main class="site-main" id
 site-main	_site/blog/index.html	/^        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">$/;"	I	line:109	language:HTML
 site-main	_site/index.html	/^        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">$/;"	I	line:109	language:HTML
 site-main	_site/jekyll/update/2025/07/04/causality.html	/^        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">$/;"	I	line:110	language:HTML
-site-main	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">$/;"	I	line:110	language:HTML
+site-main	_site/local_serve.html	/^        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">$/;"	I	line:109	language:HTML
+site-main	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">$/;"	I	line:110	language:HTML
+site-main	_site/otheri_links.html	/^        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">$/;"	I	line:109	language:HTML
 site-main	_site/test/2025/07/05/test-post.html	/^        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">$/;"	I	line:110	language:HTML
 site-sidebar	_site/CLAUDE.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:84	language:HTML
 site-sidebar	_site/FinlTimeSeriesAppendix.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:84	language:HTML
 site-sidebar	_site/blog/index.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:84	language:HTML
 site-sidebar	_site/index.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:84	language:HTML
 site-sidebar	_site/jekyll/update/2025/07/04/causality.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:85	language:HTML
-site-sidebar	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:85	language:HTML
+site-sidebar	_site/local_serve.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:84	language:HTML
+site-sidebar	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:85	language:HTML
+site-sidebar	_site/otheri_links.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:84	language:HTML
 site-sidebar	_site/test/2025/07/05/test-post.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:85	language:HTML
 site-structure	_site/CLAUDE.html	/^<h3 id="site-structure">Site Structure<\/h3>$/;"	I	line:141	language:HTML
 social-media-and-online-presence	_site/index.html	/^<h2 id="social-media-and-online-presence">Social Media and Online Presence<\/h2>$/;"	I	line:294	language:HTML
 testing-mathjax-on-github-pages	_site/blog/index.html	/^      <p><h1 id="testing-mathjax-on-github-pages">Testing MathJax on GitHub Pages<\/h1>$/;"	I	line:130	language:HTML
 testing-mathjax-on-github-pages	_site/test/2025/07/05/test-post.html	/^    <h1 id="testing-mathjax-on-github-pages">Testing MathJax on GitHub Pages<\/h1>$/;"	I	line:123	language:HTML
-the-augmented-dickey-fuller-test-adf-test	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h2 id="the-augmented-dickey-fuller-test-adf-test">The Augmented Dickey-Fuller Test (ADF Test)<\//;"	I	line:138	language:HTML
+the-augmented-dickey-fuller-test-adf-test	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h2 id="the-augmented-dickey-fuller-test-adf-test">The Augmented Dickey-Fuller Test (ADF Test)<\//;"	I	line:140	language:HTML
 theme-customization	_site/CLAUDE.html	/^<h3 id="theme-customization">Theme Customization<\/h3>$/;"	I	line:227	language:HTML
 university-teaching	_site/index.html	/^<h3 id="university-teaching">University Teaching<\/h3>$/;"	I	line:230	language:HTML
-variance-ratio	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h3 id="variance-ratio">Variance Ratio:<\/h3>$/;"	I	line:355	language:HTML
+variance-ratio	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h3 id="variance-ratio">Variance Ratio:<\/h3>$/;"	I	line:357	language:HTML
 variance-ratio	_site/test/2025/07/05/test-post.html	/^<h2 id="variance-ratio">Variance Ratio<\/h2>$/;"	I	line:155	language:HTML
-variance-ratio-tests	_site/jekyll/update/2025/07/08/mean_rev_1.html	/^<h2 id="variance-ratio-tests">Variance Ratio Tests<\/h2>$/;"	I	line:227	language:HTML
+variance-ratio-tests	_site/mean-reversion,/algorithmic/trading,/statistical/tests,/trading/strategies/2025/07/14/mean_rev_1.html	/^<h2 id="variance-ratio-tests">Variance Ratio Tests<\/h2>$/;"	I	line:229	language:HTML
 xsi	_site/sitemap.xml	/^<urlset xmlns:xsi="http:\/\/www.w3.org\/2001\/XMLSchema-instance" xsi:schemaLocation="http:\/\/w/;"	n	line:2	language:XML	uri:http://www.w3.org/2001/XMLSchema-instance
