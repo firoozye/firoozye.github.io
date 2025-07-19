@@ -7,13 +7,16 @@
 
 [Blog](/blog/)
 
- ![NBF Headshot](images/selfie.jpg){: width="200"}
 ## About Me
+
+<div class="about-section">
+<img src="images/selfie.jpg" alt="NBF Headshot" class="profile-image" />
  **Dr. Nick Firoozye** is a mathematician and finance professional with over 20 years of experience in research, structuring, and trading across buy and sell-side firms, including  Lehman Brothers, Deutsche Bank, Nomura, Goldman Sachs, and Citadel.  He specialises in areas ranging from Quant Strategy, RV Trading, to Asset Allocation.  Currently, Nick works at a mid-frequency trading prop firm based in Chicago. 
 
  As an Honorary Professor at University College London, Nick developed the Algorithmic Trading Strategies course, which he has taught PhD and MSc students since 2016.  He has also created and taught several successful online versions of the class. He has supervised eight PhD students researching machine learning for algorithmic trading and finance, with several now working in AI, systematic trading, and quant research. Over 600 students have successfully completed the Master's and online courses. 
 
  Nick co-authored the book _Managing Uncertainty, Mitigating Risk_, which addresses uncertainty in modelling financial crises. He holds a PhD from the Courant Institute, NYU, with postdoctoral positions at the University of Minnesota, Heriot-Watt University, the University of Bonn, and NYU. Before moving to Wall Street, Nick held a tenure-track Assistant Professorship at the University of Illinois, Urbana-Champaign.
+</div>
 
 ## Academic Information
  - **Institution**: University College London (UCL)

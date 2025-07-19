@@ -1,0 +1,20 @@
+---
+---
+
+/* Custom styles for profile image */
+.profile-image {
+  width: 50% !important;
+  max-width: 200px !important;
+  height: auto !important;
+  float: left !important;
+  margin-right: 20px !important;
+  margin-bottom: 15px !important;
+  border-radius: 8px;
+}
+
+/* Clear float after the image for proper layout */
+.about-section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
