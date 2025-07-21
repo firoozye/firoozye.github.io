@@ -172,11 +172,11 @@ Sell-side research on the EZ crisis, Quant methods in Finance, RV trades, and Is
 ## Social Media and Online Presence
 
  - [UCL Profile Page](https://profiles.ucl.ac.uk/57406-nick-firoozye)
- - [LinkedIn](https://www.linkedin.com/in/firoozye)
- - [GitHub](https://github.com/firoozye)  (Public side is limited) 
- - [Twitter](https://x.com/firoozye)
- - [BlueSky](https://bsky.app/profile/objrnd.bsky.social)
- - [Linktree (Links to All Online Presence)](https://linktr.ee/NBfiroozye)
+ - <a href="https://www.linkedin.com/in/firoozye" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i> LinkedIn</a>
+ - <a href="https://github.com/firoozye" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i> GitHub</a>  (Public side is limited) 
+ - <a href="https://x.com/firoozye" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-x-twitter"></i> Twitter</a>
+ - <a href="https://bsky.app/profile/objrnd.bsky.social" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-bluesky"></i> BlueSky</a>
+ - <a href="https://linktr.ee/NBfiroozye" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i> Linktree (Links to All Online Presence)</a>
  
 
 
