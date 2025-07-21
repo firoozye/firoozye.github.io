@@ -1,6 +1,21 @@
 ---
 ---
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.references-section {
+  font-size: 0.8em;
+  line-height: 1.3em;
+}
+
+.references-section li {
+  margin-bottom: 0.3em; /* Adjust as needed for tighter list spacing */
+}
+
 /* Custom styles for profile image */
 .profile-image {
   width: 50% !important;

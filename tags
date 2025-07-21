@@ -1,0 +1,299 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/nfiroo/firoozye.github.io/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+1-the-bayesian-ar1-model	_site/drafts/bayesian_optimal_trading.html	/^<h3 id="1-the-bayesian-ar1-model">1. The Bayesian AR(1) Model<\/h3>$/;"	I	line:122	language:HTML
+1-the-general-utility-function	_site/2025/07/15/mean_rev_2.html	/^<h3 id="1-the-general-utility-function">1. The General Utility Function<\/h3>$/;"	I	line:239	language:HTML
+1-the-general-utility-function	_site/drafts/optimal_trading_market_impact.html	/^<h3 id="1-the-general-utility-function">1. The General Utility Function<\/h3>$/;"	I	line:122	language:HTML
+1-the-model	_site/2025/07/15/mean_rev_2.html	/^<h3 id="1-the-model">1. The Model<\/h3>$/;"	I	line:154	language:HTML
+1-the-model	_site/drafts/optimal_trading_ar1.html	/^<h3 id="1-the-model">1. The Model<\/h3>$/;"	I	line:123	language:HTML
+1. The Bayesian AR(1) Model	_site/drafts/bayesian_optimal_trading.html	/^<h3 id="1-the-bayesian-ar1-model">1. The Bayesian AR(1) Model<\/h3>$/;"	j	line:122	language:HTML
+1. The General Utility Function	_site/2025/07/15/mean_rev_2.html	/^<h3 id="1-the-general-utility-function">1. The General Utility Function<\/h3>$/;"	j	line:239	language:HTML
+1. The General Utility Function	_site/drafts/optimal_trading_market_impact.html	/^<h3 id="1-the-general-utility-function">1. The General Utility Function<\/h3>$/;"	j	line:122	language:HTML
+1. The Model	_site/2025/07/15/mean_rev_2.html	/^<h3 id="1-the-model">1. The Model<\/h3>$/;"	j	line:154	language:HTML
+1. The Model	_site/drafts/optimal_trading_ar1.html	/^<h3 id="1-the-model">1. The Model<\/h3>$/;"	j	line:123	language:HTML
+2-case-1-market-impact-with-1	_site/2025/07/15/mean_rev_2.html	/^<h3 id="2-case-1-market-impact-with-1">2. Case 1: Market Impact with (\\1)<\/h3>$/;"	I	line:258	language:HTML
+2-case-1-market-impact-with-textturnover32	_site/drafts/optimal_trading_market_impact.html	/^<h3 id="2-case-1-market-impact-with-textturnover32">2. Case 1: Market Impact with $|\\text{turno/;"	I	line:151	language:HTML
+2-optimal-allocation-with-transaction-costs	_site/2025/07/15/mean_rev_2.html	/^<h3 id="2-optimal-allocation-with-transaction-costs">2. Optimal Allocation with Transaction Cost/;"	I	line:179	language:HTML
+2-optimal-allocation-with-transaction-costs	_site/drafts/optimal_trading_ar1.html	/^<h3 id="2-optimal-allocation-with-transaction-costs">2. Optimal Allocation with Transaction Cost/;"	I	line:148	language:HTML
+2-the-predictive-distribution-the-key-ingredient	_site/drafts/bayesian_optimal_trading.html	/^<h3 id="2-the-predictive-distribution-the-key-ingredient">2. The Predictive Distribution: The Ke/;"	I	line:137	language:HTML
+2. Case 1: Market Impact with $|\\text{turnover}|^{3/2}$	_site/drafts/optimal_trading_market_impact.html	/^<h3 id="2-case-1-market-impact-with-textturnover32">2. Case 1: Market Impact with $|\\text{turno/;"	j	line:151	language:HTML
+2. Case 1: Market Impact with (\\1)	_site/2025/07/15/mean_rev_2.html	/^<h3 id="2-case-1-market-impact-with-1">2. Case 1: Market Impact with (\\1)<\/h3>$/;"	j	line:258	language:HTML
+2. Optimal Allocation with Transaction Costs	_site/2025/07/15/mean_rev_2.html	/^<h3 id="2-optimal-allocation-with-transaction-costs">2. Optimal Allocation with Transaction Cost/;"	j	line:179	language:HTML
+2. Optimal Allocation with Transaction Costs	_site/drafts/optimal_trading_ar1.html	/^<h3 id="2-optimal-allocation-with-transaction-costs">2. Optimal Allocation with Transaction Cost/;"	j	line:148	language:HTML
+2. The Predictive Distribution: The Key Ingredient	_site/drafts/bayesian_optimal_trading.html	/^<h3 id="2-the-predictive-distribution-the-key-ingredient">2. The Predictive Distribution: The Ke/;"	j	line:137	language:HTML
+3-case-2-market-impact-with-1-kyle-like-model	_site/2025/07/15/mean_rev_2.html	/^<h3 id="3-case-2-market-impact-with-1-kyle-like-model">3. Case 2: Market Impact with (\\1) (Kyle/;"	I	line:281	language:HTML
+3-case-2-market-impact-with-textturnover2-kyle-like-model	_site/drafts/optimal_trading_market_impact.html	/^<h3 id="3-case-2-market-impact-with-textturnover2-kyle-like-model">3. Case 2: Market Impact with/;"	I	line:174	language:HTML
+3-optimal-position-sizing-no-costs	_site/drafts/bayesian_optimal_trading.html	/^<h3 id="3-optimal-position-sizing-no-costs">3. Optimal Position Sizing (No Costs)<\/h3>$/;"	I	line:166	language:HTML
+3. Case 2: Market Impact with $|\\text{turnover}|^2$ (Kyle-like Model)	_site/drafts/optimal_trading_market_impact.html	/^<h3 id="3-case-2-market-impact-with-textturnover2-kyle-like-model">3. Case 2: Market Impact with/;"	j	line:174	language:HTML
+3. Case 2: Market Impact with (\\1) (Kyle-like Model)	_site/2025/07/15/mean_rev_2.html	/^<h3 id="3-case-2-market-impact-with-1-kyle-like-model">3. Case 2: Market Impact with (\\1) (Kyle/;"	j	line:281	language:HTML
+3. Optimal Position Sizing (No Costs)	_site/drafts/bayesian_optimal_trading.html	/^<h3 id="3-optimal-position-sizing-no-costs">3. Optimal Position Sizing (No Costs)<\/h3>$/;"	j	line:166	language:HTML
+4-optimal-sizing-with-quadratic-transaction-costs	_site/drafts/bayesian_optimal_trading.html	/^<h3 id="4-optimal-sizing-with-quadratic-transaction-costs">4. Optimal Sizing with Quadratic Tran/;"	I	line:184	language:HTML
+4. Optimal Sizing with Quadratic Transaction Costs	_site/drafts/bayesian_optimal_trading.html	/^<h3 id="4-optimal-sizing-with-quadratic-transaction-costs">4. Optimal Sizing with Quadratic Tran/;"	j	line:184	language:HTML
+ADF:	_site/2025/07/14/mean_rev_1.html	/^<h3 id="adf">ADF:<\/h3>$/;"	j	line:349	language:HTML
+ADF:	_site/2025/07/16/mean_rev_3.html	/^<h3 id="adf">ADF:<\/h3>$/;"	j	line:174	language:HTML
+About Me	_site/index.html	/^<h2 id="about-me">About Me<\/h2>$/;"	i	line:122	language:HTML
+Academic Content	_site/CLAUDE.html	/^<h3 id="academic-content">Academic Content<\/h3>$/;"	j	line:259	language:HTML
+Academic Experience:	_site/index.html	/^<h3 id="academic-experience">Academic Experience:<\/h3>$/;"	j	line:202	language:HTML
+Academic Information	_site/index.html	/^<h2 id="academic-information">Academic Information<\/h2>$/;"	i	line:133	language:HTML
+Aligned Equations	_site/test/2025/07/05/test-post.html	/^<h2 id="aligned-equations">Aligned Equations<\/h2>$/;"	i	line:136	language:HTML
+Appendix - Financial Time-Series Features	_site/FinlTimeSeriesAppendix.html	/^    <h1 class="post-title">Appendix - Financial Time-Series Features<\/h1>$/;"	h	line:114	language:HTML
+Appendix - Financial Time-Series Features	_site/FinlTimeSeriesAppendix.html	/^<h2 id="appendix---financial-time-series-features">Appendix - Financial Time-Series Features<\/h/;"	i	line:119	language:HTML
+Assets	_site/CLAUDE.html	/^<h3 id="assets">Assets<\/h3>$/;"	j	line:213	language:HTML
+Awards and Grants	_site/index.html	/^<h3 id="awards-and-grants">Awards and Grants<\/h3>$/;"	j	line:208	language:HTML
+Background:	_site/index.html	/^<h2 id="background">Background:<\/h2>$/;"	i	line:187	language:HTML
+Blog	_site/blog/index.html	/^    <h1 class="post-title">Blog<\/h1>$/;"	h	line:114	language:HTML
+Blog Posts	_site/CLAUDE.html	/^<h3 id="blog-posts">Blog Posts<\/h3>$/;"	j	line:244	language:HTML
+Blog Posts	_site/blog/index.html	/^    <h2 id="blog-posts">Blog Posts<\/h2>$/;"	i	line:118	language:HTML
+Books	_site/index.html	/^<h2 id="books">Books<\/h2>$/;"	i	line:260	language:HTML
+CLAUDE.md	_site/CLAUDE.html	/^    <h1 class="post-title">CLAUDE.md<\/h1>$/;"	h	line:114	language:HTML
+CLAUDE.md	_site/CLAUDE.html	/^    <h1 id="claudemd">CLAUDE.md<\/h1>$/;"	h	line:118	language:HTML
+Causality in Financial Markets	_site/blog/index.html	/^      <h3><a href="\/jekyll\/update\/2025\/07\/04\/causality.html">Causality in Financial Market/;"	j	line:165	language:HTML
+Causality in Financial Markets	_site/blog/index.html	/^      <p><h1 id="causality-in-financial-markets">Causality in Financial Markets<\/h1>$/;"	h	line:166	language:HTML
+Causality in Financial Markets	_site/index.html	/^        <\/h2>$/;"	i	line:380	language:HTML
+Causality in Financial Markets	_site/jekyll/update/2025/07/04/causality.html	/^    <h1 class="post-title p-name" itemprop="name headline">Causality in Financial Markets<\/h1>$/;"	h	line:116	language:HTML
+Causality in Financial Markets	_site/jekyll/update/2025/07/04/causality.html	/^    <h1 id="causality-in-financial-markets">Causality in Financial Markets<\/h1>$/;"	h	line:124	language:HTML
+Common Development Commands	_site/CLAUDE.html	/^<h2 id="common-development-commands">Common Development Commands<\/h2>$/;"	i	line:159	language:HTML
+Complex Expression	_site/test/2025/07/05/test-post.html	/^<h2 id="complex-expression">Complex Expression<\/h2>$/;"	i	line:153	language:HTML
+Configuration	_site/CLAUDE.html	/^<h3 id="configuration">Configuration<\/h3>$/;"	j	line:199	language:HTML
+Contact Information	_site/index.html	/^<h2 id="contact-information">Contact Information<\/h2>$/;"	i	line:226	language:HTML
+Content	_site/CLAUDE.html	/^<h3 id="content">Content<\/h3>$/;"	j	line:206	language:HTML
+Content Guidelines	_site/CLAUDE.html	/^<h2 id="content-guidelines">Content Guidelines<\/h2>$/;"	i	line:242	language:HTML
+Content Management	_site/CLAUDE.html	/^<h3 id="content-management">Content Management<\/h3>$/;"	j	line:184	language:HTML
+Content Types	_site/CLAUDE.html	/^<h3 id="content-types">Content Types<\/h3>$/;"	j	line:152	language:HTML
+Courses - Live, Hybrid, and Online	_site/index.html	/^<h2 id="courses---live-hybrid-and-online">Courses - Live, Hybrid, and Online<\/h2>$/;"	i	line:233	language:HTML
+Current Projects	_site/index.html	/^<h2 id="current-projects">Current Projects<\/h2>$/;"	i	line:289	language:HTML
+Dependencies	_site/CLAUDE.html	/^<h3 id="dependencies">Dependencies<\/h3>$/;"	j	line:190	language:HTML
+Development Notes	_site/CLAUDE.html	/^<h2 id="development-notes">Development Notes<\/h2>$/;"	i	line:219	language:HTML
+Display Math	_site/test/2025/07/05/test-post.html	/^<h2 id="display-math">Display Math<\/h2>$/;"	i	line:130	language:HTML
+Dr Nick Firoozye’s Homepage	_site/index.html	/^<h1 id="dr-nick-firoozyes-homepage">Dr Nick Firoozye’s Homepage<\/h1>$/;"	h	line:118	language:HTML
+Dr Nikan Firoozye	_site/index_old.html	/^	<h1>Dr Nikan Firoozye<\/h1>$/;"	h	line:7	language:HTML
+Dr Nikan Firoozye	index_old.html	/^	<h1>Dr Nikan Firoozye<\/h1>$/;"	h	line:7	language:HTML
+Education:	_site/index.html	/^<h3 id="education">Education:<\/h3>$/;"	j	line:219	language:HTML
+Financial Experience:	_site/index.html	/^<h3 id="financial-experience">Financial Experience:<\/h3>$/;"	j	line:188	language:HTML
+Further Discussion:	_site/2025/07/14/mean_rev_1.html	/^<h2 id="further-discussion">Further Discussion:<\/h2>$/;"	i	line:320	language:HTML
+GitHub Pages Deployment	_site/CLAUDE.html	/^<h3 id="github-pages-deployment">GitHub Pages Deployment<\/h3>$/;"	j	line:235	language:HTML
+Granger Causality	_site/jekyll/update/2025/07/04/causality.html	/^<h2 id="granger-causality">Granger Causality<\/h2>$/;"	i	line:133	language:HTML
+Honorary Reader	_site/index_old.html	/^	<h2>Honorary Reader<\/h2> <img src= "nbfheadshot.jpg" width="200" height="200" alt="Dr Nikan Fi/;"	i	line:8	language:HTML
+Honorary Reader	index_old.html	/^	<h2>Honorary Reader<\/h2> <img src= "nbfheadshot.jpg" width="200" height="200" alt="Dr Nikan Fi/;"	i	line:8	language:HTML
+Images	_site/CLAUDE.html	/^<h3 id="images">Images<\/h3>$/;"	j	line:252	language:HTML
+Important Files	_site/CLAUDE.html	/^<h2 id="important-files">Important Files<\/h2>$/;"	i	line:197	language:HTML
+Inline Math	_site/test/2025/07/05/test-post.html	/^<h2 id="inline-math">Inline Math<\/h2>$/;"	i	line:126	language:HTML
+Introduction	_site/2025/07/14/mean_rev_1.html	/^<h1 id="introduction">Introduction<\/h1>$/;"	h	line:131	language:HTML
+Introduction	_site/2025/07/15/mean_rev_2.html	/^<h1 id="introduction">Introduction<\/h1>$/;"	h	line:128	language:HTML
+Introduction	_site/2025/07/16/mean_rev_3.html	/^<h1 id="introduction">Introduction<\/h1>$/;"	h	line:137	language:HTML
+Jekyll Configuration	_site/CLAUDE.html	/^<h3 id="jekyll-configuration">Jekyll Configuration<\/h3>$/;"	j	line:128	language:HTML
+Key Academic References	_site/drafts/bayesian_optimal_trading.html	/^<h3 id="key-academic-references">Key Academic References<\/h3>$/;"	j	line:196	language:HTML
+Key Architecture	_site/CLAUDE.html	/^<h2 id="key-architecture">Key Architecture<\/h2>$/;"	i	line:126	language:HTML
+Key References	_site/2025/07/15/mean_rev_2.html	/^<h3 id="key-references">Key References<\/h3>$/;"	j	line:313	language:HTML
+Key References	_site/drafts/optimal_trading_market_impact.html	/^<h3 id="key-references">Key References<\/h3>$/;"	j	line:206	language:HTML
+Local Development Setup	_site/CLAUDE.html	/^<h3 id="local-development-setup">Local Development Setup<\/h3>$/;"	j	line:161	language:HTML
+MathJax Integration	_site/CLAUDE.html	/^<h3 id="mathjax-integration">MathJax Integration<\/h3>$/;"	j	line:221	language:HTML
+MathJax Test for GitHub Pages	_site/blog/index.html	/^      <h3><a href="\/test\/2025\/07\/05\/test-post.html">MathJax Test for GitHub Pages<\/a><\/h3/;"	j	line:158	language:HTML
+MathJax Test for GitHub Pages	_site/index.html	/^        <\/h2>$/;"	i	line:369	language:HTML
+MathJax Test for GitHub Pages	_site/test/2025/07/05/test-post.html	/^    <h1 class="post-title p-name" itemprop="name headline">MathJax Test for GitHub Pages<\/h1>$/;"	h	line:116	language:HTML
+MathJax-script	_includes/head.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:32	language:HTML
+MathJax-script	_site/2025/07/14/mean_rev_1.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:54	language:HTML
+MathJax-script	_site/2025/07/15/mean_rev_2.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:54	language:HTML
+MathJax-script	_site/2025/07/16/mean_rev_3.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:54	language:HTML
+MathJax-script	_site/CLAUDE.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:53	language:HTML
+MathJax-script	_site/FinlTimeSeriesAppendix.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:53	language:HTML
+MathJax-script	_site/blog/index.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:53	language:HTML
+MathJax-script	_site/drafts/bayesian_optimal_trading.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:53	language:HTML
+MathJax-script	_site/drafts/optimal_trading_ar1.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:53	language:HTML
+MathJax-script	_site/drafts/optimal_trading_market_impact.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:53	language:HTML
+MathJax-script	_site/index.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:53	language:HTML
+MathJax-script	_site/jekyll/update/2025/07/04/causality.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:54	language:HTML
+MathJax-script	_site/local_serve.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:53	language:HTML
+MathJax-script	_site/test/2025/07/05/test-post.html	/^<script type="text\/javascript" id="MathJax-script" async$/;"	I	line:54	language:HTML
+Mean-Reversion in Practice	_site/2025/07/14/mean_rev_1.html	/^<h2 id="mean-reversion-in-practice">Mean-Reversion in Practice<\/h2>$/;"	i	line:271	language:HTML
+Mean-Reversion in a Trading Framework:	_site/2025/07/14/mean_rev_1.html	/^<h2 id="mean-reversion-in-a-trading-framework">Mean-Reversion in a Trading Framework:<\/h2>$/;"	i	line:305	language:HTML
+Mean-Reversion in a Trading Framework:	_site/2025/07/16/mean_rev_3.html	/^<h2 id="mean-reversion-in-a-trading-framework">Mean-Reversion in a Trading Framework:<\/h2>$/;"	i	line:168	language:HTML
+Mean_rev_3	_site/2025/07/16/mean_rev_3.html	/^    <h1 class="post-title p-name" itemprop="name headline">Mean_rev_3<\/h1>$/;"	h	line:116	language:HTML
+Mean_rev_3	_site/blog/index.html	/^      <h3><a href="\/2025\/07\/16\/mean_rev_3.html">Mean_rev_3<\/a><\/h3>$/;"	j	line:123	language:HTML
+Mean_rev_3	_site/index.html	/^        <\/h2>$/;"	i	line:319	language:HTML
+N-M and KPSS:	_site/2025/07/14/mean_rev_1.html	/^<h3 id="n-m-and-kpss">N-M and KPSS:<\/h3>$/;"	j	line:357	language:HTML
+N-M and KPSS:	_site/2025/07/16/mean_rev_3.html	/^<h3 id="n-m-and-kpss">N-M and KPSS:<\/h3>$/;"	j	line:182	language:HTML
+Nyblom-Mäkaläinen Test and KPSS Test	_site/2025/07/14/mean_rev_1.html	/^<h2 id="nyblom-mäkaläinen-test-and-kpss-test">Nyblom-Mäkaläinen Test and KPSS Test<\/h2>$/;"	i	line:186	language:HTML
+Online Hybrid and Pre-recorded Teaching	_site/index.html	/^<h3 id="online-hybrid-and-pre-recorded-teaching">Online Hybrid and Pre-recorded Teaching<\/h3>$/;"	j	line:244	language:HTML
+Optimal Mean Reversion Trading with an AR(1) Process and Fixed Costs	_site/2025/07/15/mean_rev_2.html	/^<h1 id="optimal-mean-reversion-trading-with-an-ar1-process-and-fixed-costs">Optimal Mean Reversi/;"	h	line:150	language:HTML
+Optimal Mean Reversion Trading with an AR(1) Process and Fixed Costs	_site/drafts/optimal_trading_ar1.html	/^    <h1 class="post-title">Optimal Mean Reversion Trading with an AR(1) Process and Fixed Costs</;"	h	line:114	language:HTML
+Optimal Mean Reversion Trading with an AR(1) Process and Fixed Costs	_site/drafts/optimal_trading_ar1.html	/^<h1 id="optimal-mean-reversion-trading-with-an-ar1-process-and-fixed-costs">Optimal Mean Reversi/;"	h	line:119	language:HTML
+Optimal Trading with Market Impact Costs	_site/2025/07/15/mean_rev_2.html	/^<h1 id="optimal-trading-with-market-impact-costs">Optimal Trading with Market Impact Costs<\/h1>$/;"	h	line:235	language:HTML
+Optimal Trading with Market Impact Costs	_site/drafts/optimal_trading_market_impact.html	/^    <h1 class="post-title">Optimal Trading with Market Impact Costs<\/h1>$/;"	h	line:114	language:HTML
+Optimal Trading with Market Impact Costs	_site/drafts/optimal_trading_market_impact.html	/^    <h1 id="optimal-trading-with-market-impact-costs">Optimal Trading with Market Impact Costs<\//;"	h	line:118	language:HTML
+Optimal Trading with Parameter Uncertainty: A Bayesian Approach	_site/drafts/bayesian_optimal_trading.html	/^    <h1 class="post-title">Optimal Trading with Parameter Uncertainty: A Bayesian Approach<\/h1>$/;"	h	line:114	language:HTML
+Optimal Trading with Parameter Uncertainty: A Bayesian Approach	_site/drafts/bayesian_optimal_trading.html	/^    <h1 id="optimal-trading-with-parameter-uncertainty-a-bayesian-approach">Optimal Trading with/;"	h	line:118	language:HTML
+Publications (Recent and Older Academic, and Sell-Side Research	_site/index.html	/^<h2 id="publications-recent-and-older-academic-and-sell-side-research">Publications (Recent and /;"	i	line:269	language:HTML
+Recent (Algo Trading) and Older (Nonlinear PDEs)	_site/index.html	/^<h3 id="recent-algo-trading-and-older-nonlinear-pdes">Recent (Algo Trading) and Older (Nonlinear/;"	j	line:271	language:HTML
+Recommended Courses:	_site/2025/07/14/mean_rev_1.html	/^<h2 id="recommended-courses">Recommended Courses:<\/h2>$/;"	i	line:375	language:HTML
+Recommended Courses:	_site/2025/07/15/mean_rev_2.html	/^<h2 id="recommended-courses">Recommended Courses:<\/h2>$/;"	i	line:330	language:HTML
+Recommended Courses:	_site/2025/07/16/mean_rev_3.html	/^<h2 id="recommended-courses">Recommended Courses:<\/h2>$/;"	i	line:200	language:HTML
+References	_site/drafts/optimal_trading_ar1.html	/^<h3 id="references">References<\/h3>$/;"	j	line:195	language:HTML
+References (Allocation with Fixed Costs)	_site/2025/07/15/mean_rev_2.html	/^<h3 id="references-allocation-with-fixed-costs">References (Allocation with Fixed Costs)<\/h3>$/;"	j	line:226	language:HTML
+References and Further Reading	_site/2025/07/14/mean_rev_1.html	/^<h2 id="references-and-further-reading">References and Further Reading<\/h2>$/;"	i	line:347	language:HTML
+References and Further Reading	_site/2025/07/16/mean_rev_3.html	/^<h2 id="references-and-further-reading">References and Further Reading<\/h2>$/;"	i	line:172	language:HTML
+References:	_site/FinlTimeSeriesAppendix.html	/^<h3 id="references">References:<\/h3>$/;"	j	line:131	language:HTML
+Repository Overview	_site/CLAUDE.html	/^<h2 id="repository-overview">Repository Overview<\/h2>$/;"	i	line:122	language:HTML
+Ruby Environment Management	_site/CLAUDE.html	/^<h3 id="ruby-environment-management">Ruby Environment Management<\/h3>$/;"	j	line:176	language:HTML
+Sell-Side Research &amp; Academic Research	_site/index.html	/^<h3 id="sell-side-research--academic-research">Sell-Side Research &amp; Academic Research<\/h3>$/;"	j	line:283	language:HTML
+Site Structure	_site/CLAUDE.html	/^<h3 id="site-structure">Site Structure<\/h3>$/;"	j	line:142	language:HTML
+Social Media and Online Presence	_site/index.html	/^<h2 id="social-media-and-online-presence">Social Media and Online Presence<\/h2>$/;"	i	line:298	language:HTML
+Testing MathJax on GitHub Pages	_site/blog/index.html	/^      <p><h1 id="testing-mathjax-on-github-pages">Testing MathJax on GitHub Pages<\/h1>$/;"	h	line:159	language:HTML
+Testing MathJax on GitHub Pages	_site/test/2025/07/05/test-post.html	/^    <h1 id="testing-mathjax-on-github-pages">Testing MathJax on GitHub Pages<\/h1>$/;"	h	line:124	language:HTML
+The Augmented Dickey-Fuller Test (ADF Test)	_site/2025/07/14/mean_rev_1.html	/^<h2 id="the-augmented-dickey-fuller-test-adf-test">The Augmented Dickey-Fuller Test (ADF Test)<\//;"	i	line:144	language:HTML
+Theme Customization	_site/CLAUDE.html	/^<h3 id="theme-customization">Theme Customization<\/h3>$/;"	j	line:228	language:HTML
+Trading Mid-Frequency and RV lie a Pro (Part 2): How to scale trades	_site/2025/07/15/mean_rev_2.html	/^    <h1 class="post-title p-name" itemprop="name headline">Trading Mid-Frequency and RV lie a Pr/;"	h	line:116	language:HTML
+Trading Mid-Frequency and RV lie a Pro (Part 2): How to scale trades	_site/blog/index.html	/^      <h3><a href="\/2025\/07\/15\/mean_rev_2.html">Trading Mid-Frequency and RV lie a Pro (Part/;"	j	line:143	language:HTML
+Trading Mid-Frequency and RV lie a Pro (Part 2): How to scale trades	_site/blog/index.html	/^      <h3><a href="\/2025\/07\/15\/mean_rev_2.md.bak">Trading Mid-Frequency and RV lie a Pro (Pa/;"	j	line:136	language:HTML
+Trading Mid-Frequency and RV lie a Pro (Part 2): How to scale trades	_site/index.html	/^        <\/h2>$/;"	i	line:336	language:HTML
+Trading Mid-Frequency and RV lie a Pro (Part 2): How to scale trades	_site/index.html	/^        <\/h2>$/;"	i	line:347	language:HTML
+Trading Mid-Frequency and RV like a Pro (Part 1): Identifying Mean-Reversion with Statistical Tests	_site/2025/07/14/mean_rev_1.html	/^    <h1 class="post-title p-name" itemprop="name headline">Trading Mid-Frequency and RV like a P/;"	h	line:116	language:HTML
+Trading Mid-Frequency and RV like a Pro (Part 1): Identifying Mean-Reversion with Statistical Tests	_site/blog/index.html	/^      <h3><a href="\/2025\/07\/14\/mean_rev_1.html">Trading Mid-Frequency and RV like a Pro (Par/;"	j	line:150	language:HTML
+Trading Mid-Frequency and RV like a Pro (Part 1): Identifying Mean-Reversion with Statistical Tests	_site/index.html	/^        <\/h2>$/;"	i	line:358	language:HTML
+University Teaching	_site/index.html	/^<h3 id="university-teaching">University Teaching<\/h3>$/;"	j	line:234	language:HTML
+Variance Ratio	_site/test/2025/07/05/test-post.html	/^<h2 id="variance-ratio">Variance Ratio<\/h2>$/;"	i	line:156	language:HTML
+Variance Ratio Tests	_site/2025/07/14/mean_rev_1.html	/^<h2 id="variance-ratio-tests">Variance Ratio Tests<\/h2>$/;"	i	line:234	language:HTML
+Variance Ratio:	_site/2025/07/14/mean_rev_1.html	/^<h3 id="variance-ratio">Variance Ratio:<\/h3>$/;"	j	line:368	language:HTML
+Variance Ratio:	_site/2025/07/16/mean_rev_3.html	/^<h3 id="variance-ratio">Variance Ratio:<\/h3>$/;"	j	line:193	language:HTML
+about-me	_site/index.html	/^<h2 id="about-me">About Me<\/h2>$/;"	I	line:122	language:HTML
+academic-content	_site/CLAUDE.html	/^<h3 id="academic-content">Academic Content<\/h3>$/;"	I	line:259	language:HTML
+academic-experience	_site/index.html	/^<h3 id="academic-experience">Academic Experience:<\/h3>$/;"	I	line:202	language:HTML
+academic-information	_site/index.html	/^<h2 id="academic-information">Academic Information<\/h2>$/;"	I	line:133	language:HTML
+adf	_site/2025/07/14/mean_rev_1.html	/^<h3 id="adf">ADF:<\/h3>$/;"	I	line:349	language:HTML
+adf	_site/2025/07/16/mean_rev_3.html	/^<h3 id="adf">ADF:<\/h3>$/;"	I	line:174	language:HTML
+aligned-equations	_site/test/2025/07/05/test-post.html	/^<h2 id="aligned-equations">Aligned Equations<\/h2>$/;"	I	line:136	language:HTML
+appendix---financial-time-series-features	_site/FinlTimeSeriesAppendix.html	/^<h2 id="appendix---financial-time-series-features">Appendix - Financial Time-Series Features<\/h/;"	I	line:119	language:HTML
+asset-price-dynamics-ar1-process	_site/2025/07/15/mean_rev_2.html	/^<h4 id="asset-price-dynamics-ar1-process">Asset Price Dynamics: AR(1) Process<\/h4>$/;"	I	line:156	language:HTML
+asset-price-dynamics-ar1-process	_site/drafts/optimal_trading_ar1.html	/^<h4 id="asset-price-dynamics-ar1-process">Asset Price Dynamics: AR(1) Process<\/h4>$/;"	I	line:125	language:HTML
+assets	_site/CLAUDE.html	/^<h3 id="assets">Assets<\/h3>$/;"	I	line:213	language:HTML
+awards-and-grants	_site/index.html	/^<h3 id="awards-and-grants">Awards and Grants<\/h3>$/;"	I	line:208	language:HTML
+background	_site/index.html	/^<h2 id="background">Background:<\/h2>$/;"	I	line:187	language:HTML
+blog-posts	_site/CLAUDE.html	/^<h3 id="blog-posts">Blog Posts<\/h3>$/;"	I	line:244	language:HTML
+blog-posts	_site/blog/index.html	/^    <h2 id="blog-posts">Blog Posts<\/h2>$/;"	I	line:118	language:HTML
+books	_site/index.html	/^<h2 id="books">Books<\/h2>$/;"	I	line:260	language:HTML
+boundary-formulas	_site/2025/07/15/mean_rev_2.html	/^<h4 id="boundary-formulas">Boundary Formulas<\/h4>$/;"	I	line:183	language:HTML
+boundary-formulas	_site/drafts/optimal_trading_ar1.html	/^<h4 id="boundary-formulas">Boundary Formulas<\/h4>$/;"	I	line:152	language:HTML
+causality-in-financial-markets	_site/blog/index.html	/^      <p><h1 id="causality-in-financial-markets">Causality in Financial Markets<\/h1>$/;"	I	line:166	language:HTML
+causality-in-financial-markets	_site/jekyll/update/2025/07/04/causality.html	/^    <h1 id="causality-in-financial-markets">Causality in Financial Markets<\/h1>$/;"	I	line:124	language:HTML
+certainty-equivalence-approach	_site/drafts/bayesian_optimal_trading.html	/^<h4 id="certainty-equivalence-approach">Certainty Equivalence Approach<\/h4>$/;"	I	line:168	language:HTML
+characterizing-the-optimal-solution	_site/2025/07/15/mean_rev_2.html	/^<h4 id="characterizing-the-optimal-solution">Characterizing the Optimal Solution<\/h4>$/;"	I	line:266	language:HTML
+characterizing-the-optimal-solution	_site/drafts/optimal_trading_market_impact.html	/^<h4 id="characterizing-the-optimal-solution">Characterizing the Optimal Solution<\/h4>$/;"	I	line:159	language:HTML
+characterizing-the-optimal-solution-1	_site/2025/07/15/mean_rev_2.html	/^<h4 id="characterizing-the-optimal-solution-1">Characterizing the Optimal Solution<\/h4>$/;"	I	line:289	language:HTML
+characterizing-the-optimal-solution-1	_site/drafts/optimal_trading_market_impact.html	/^<h4 id="characterizing-the-optimal-solution-1">Characterizing the Optimal Solution<\/h4>$/;"	I	line:182	language:HTML
+claudemd	_site/CLAUDE.html	/^    <h1 id="claudemd">CLAUDE.md<\/h1>$/;"	I	line:118	language:HTML
+common-development-commands	_site/CLAUDE.html	/^<h2 id="common-development-commands">Common Development Commands<\/h2>$/;"	I	line:159	language:HTML
+complete-trading-rules	_site/2025/07/15/mean_rev_2.html	/^<h4 id="complete-trading-rules">Complete Trading Rules<\/h4>$/;"	I	line:200	language:HTML
+complete-trading-rules	_site/drafts/optimal_trading_ar1.html	/^<h4 id="complete-trading-rules">Complete Trading Rules<\/h4>$/;"	I	line:169	language:HTML
+complex-expression	_site/test/2025/07/05/test-post.html	/^<h2 id="complex-expression">Complex Expression<\/h2>$/;"	I	line:153	language:HTML
+configuration	_site/CLAUDE.html	/^<h3 id="configuration">Configuration<\/h3>$/;"	I	line:199	language:HTML
+contact-information	_site/index.html	/^<h2 id="contact-information">Contact Information<\/h2>$/;"	I	line:226	language:HTML
+content	_site/CLAUDE.html	/^<h3 id="content">Content<\/h3>$/;"	I	line:206	language:HTML
+content-guidelines	_site/CLAUDE.html	/^<h2 id="content-guidelines">Content Guidelines<\/h2>$/;"	I	line:242	language:HTML
+content-management	_site/CLAUDE.html	/^<h3 id="content-management">Content Management<\/h3>$/;"	I	line:184	language:HTML
+content-types	_site/CLAUDE.html	/^<h3 id="content-types">Content Types<\/h3>$/;"	I	line:152	language:HTML
+courses---live-hybrid-and-online	_site/index.html	/^<h2 id="courses---live-hybrid-and-online">Courses - Live, Hybrid, and Online<\/h2>$/;"	I	line:233	language:HTML
+current-projects	_site/index.html	/^<h2 id="current-projects">Current Projects<\/h2>$/;"	I	line:289	language:HTML
+dependencies	_site/CLAUDE.html	/^<h3 id="dependencies">Dependencies<\/h3>$/;"	I	line:190	language:HTML
+development-notes	_site/CLAUDE.html	/^<h2 id="development-notes">Development Notes<\/h2>$/;"	I	line:219	language:HTML
+display-math	_site/test/2025/07/05/test-post.html	/^<h2 id="display-math">Display Math<\/h2>$/;"	I	line:130	language:HTML
+dr-nick-firoozyes-homepage	_site/index.html	/^<h1 id="dr-nick-firoozyes-homepage">Dr Nick Firoozye’s Homepage<\/h1>$/;"	I	line:118	language:HTML
+education	_site/index.html	/^<h3 id="education">Education:<\/h3>$/;"	I	line:219	language:HTML
+financial-experience	_site/index.html	/^<h3 id="financial-experience">Financial Experience:<\/h3>$/;"	I	line:188	language:HTML
+further-discussion	_site/2025/07/14/mean_rev_1.html	/^<h2 id="further-discussion">Further Discussion:<\/h2>$/;"	I	line:320	language:HTML
+github-pages-deployment	_site/CLAUDE.html	/^<h3 id="github-pages-deployment">GitHub Pages Deployment<\/h3>$/;"	I	line:235	language:HTML
+granger-causality	_site/jekyll/update/2025/07/04/causality.html	/^<h2 id="granger-causality">Granger Causality<\/h2>$/;"	I	line:133	language:HTML
+images	_site/CLAUDE.html	/^<h3 id="images">Images<\/h3>$/;"	I	line:252	language:HTML
+important-files	_site/CLAUDE.html	/^<h2 id="important-files">Important Files<\/h2>$/;"	I	line:197	language:HTML
+inline-math	_site/test/2025/07/05/test-post.html	/^<h2 id="inline-math">Inline Math<\/h2>$/;"	I	line:126	language:HTML
+introduction	_site/2025/07/14/mean_rev_1.html	/^<h1 id="introduction">Introduction<\/h1>$/;"	I	line:131	language:HTML
+introduction	_site/2025/07/15/mean_rev_2.html	/^<h1 id="introduction">Introduction<\/h1>$/;"	I	line:128	language:HTML
+introduction	_site/2025/07/16/mean_rev_3.html	/^<h1 id="introduction">Introduction<\/h1>$/;"	I	line:137	language:HTML
+jekyll-configuration	_site/CLAUDE.html	/^<h3 id="jekyll-configuration">Jekyll Configuration<\/h3>$/;"	I	line:128	language:HTML
+key-academic-references	_site/drafts/bayesian_optimal_trading.html	/^<h3 id="key-academic-references">Key Academic References<\/h3>$/;"	I	line:196	language:HTML
+key-architecture	_site/CLAUDE.html	/^<h2 id="key-architecture">Key Architecture<\/h2>$/;"	I	line:126	language:HTML
+key-references	_site/2025/07/15/mean_rev_2.html	/^<h3 id="key-references">Key References<\/h3>$/;"	I	line:313	language:HTML
+key-references	_site/drafts/optimal_trading_market_impact.html	/^<h3 id="key-references">Key References<\/h3>$/;"	I	line:206	language:HTML
+local-development-setup	_site/CLAUDE.html	/^<h3 id="local-development-setup">Local Development Setup<\/h3>$/;"	I	line:161	language:HTML
+mathjax-integration	_site/CLAUDE.html	/^<h3 id="mathjax-integration">MathJax Integration<\/h3>$/;"	I	line:221	language:HTML
+mean-reversion-in-a-trading-framework	_site/2025/07/14/mean_rev_1.html	/^<h2 id="mean-reversion-in-a-trading-framework">Mean-Reversion in a Trading Framework:<\/h2>$/;"	I	line:305	language:HTML
+mean-reversion-in-a-trading-framework	_site/2025/07/16/mean_rev_3.html	/^<h2 id="mean-reversion-in-a-trading-framework">Mean-Reversion in a Trading Framework:<\/h2>$/;"	I	line:168	language:HTML
+mean-reversion-in-practice	_site/2025/07/14/mean_rev_1.html	/^<h2 id="mean-reversion-in-practice">Mean-Reversion in Practice<\/h2>$/;"	I	line:271	language:HTML
+n-m-and-kpss	_site/2025/07/14/mean_rev_1.html	/^<h3 id="n-m-and-kpss">N-M and KPSS:<\/h3>$/;"	I	line:357	language:HTML
+n-m-and-kpss	_site/2025/07/16/mean_rev_3.html	/^<h3 id="n-m-and-kpss">N-M and KPSS:<\/h3>$/;"	I	line:182	language:HTML
+nsa17ebafb0101	_site/feed.xml	/^<?xml version="1.0" encoding="utf-8"?><feed xmlns="http:\/\/www.w3.org\/2005\/Atom" ><generator /;"	n	line:1	language:XML	uri:http://www.w3.org/2005/Atom
+nsd0b6adda0101	_site/sitemap.xml	/^<urlset xmlns:xsi="http:\/\/www.w3.org\/2001\/XMLSchema-instance" xsi:schemaLocation="http:\/\/w/;"	n	line:2	language:XML	uri:http://www.sitemaps.org/schemas/sitemap/0.9
+nyblom-mäkaläinen-test-and-kpss-test	_site/2025/07/14/mean_rev_1.html	/^<h2 id="nyblom-mäkaläinen-test-and-kpss-test">Nyblom-Mäkaläinen Test and KPSS Test<\/h2>$/;"	I	line:186	language:HTML
+one-period-ahead-return--risk	_site/2025/07/15/mean_rev_2.html	/^<h4 id="one-period-ahead-return--risk">One-Period Ahead Return &amp; Risk<\/h4>$/;"	I	line:170	language:HTML
+one-period-ahead-return--risk	_site/drafts/optimal_trading_ar1.html	/^<h4 id="one-period-ahead-return--risk">One-Period Ahead Return &amp; Risk<\/h4>$/;"	I	line:139	language:HTML
+online-hybrid-and-pre-recorded-teaching	_site/index.html	/^<h3 id="online-hybrid-and-pre-recorded-teaching">Online Hybrid and Pre-recorded Teaching<\/h3>$/;"	I	line:244	language:HTML
+optimal-mean-reversion-trading-with-an-ar1-process-and-fixed-costs	_site/2025/07/15/mean_rev_2.html	/^<h1 id="optimal-mean-reversion-trading-with-an-ar1-process-and-fixed-costs">Optimal Mean Reversi/;"	I	line:150	language:HTML
+optimal-mean-reversion-trading-with-an-ar1-process-and-fixed-costs	_site/drafts/optimal_trading_ar1.html	/^<h1 id="optimal-mean-reversion-trading-with-an-ar1-process-and-fixed-costs">Optimal Mean Reversi/;"	I	line:119	language:HTML
+optimal-trading-with-market-impact-costs	_site/2025/07/15/mean_rev_2.html	/^<h1 id="optimal-trading-with-market-impact-costs">Optimal Trading with Market Impact Costs<\/h1>$/;"	I	line:235	language:HTML
+optimal-trading-with-market-impact-costs	_site/drafts/optimal_trading_market_impact.html	/^    <h1 id="optimal-trading-with-market-impact-costs">Optimal Trading with Market Impact Costs<\//;"	I	line:118	language:HTML
+optimal-trading-with-parameter-uncertainty-a-bayesian-approach	_site/drafts/bayesian_optimal_trading.html	/^    <h1 id="optimal-trading-with-parameter-uncertainty-a-bayesian-approach">Optimal Trading with/;"	I	line:118	language:HTML
+predictive-mean	_site/drafts/bayesian_optimal_trading.html	/^<h4 id="predictive-mean">Predictive Mean<\/h4>$/;"	I	line:141	language:HTML
+predictive-variance	_site/drafts/bayesian_optimal_trading.html	/^<h4 id="predictive-variance">Predictive Variance<\/h4>$/;"	I	line:154	language:HTML
+publications-recent-and-older-academic-and-sell-side-research	_site/index.html	/^<h2 id="publications-recent-and-older-academic-and-sell-side-research">Publications (Recent and /;"	I	line:269	language:HTML
+recent-algo-trading-and-older-nonlinear-pdes	_site/index.html	/^<h3 id="recent-algo-trading-and-older-nonlinear-pdes">Recent (Algo Trading) and Older (Nonlinear/;"	I	line:271	language:HTML
+recommended-courses	_site/2025/07/14/mean_rev_1.html	/^<h2 id="recommended-courses">Recommended Courses:<\/h2>$/;"	I	line:375	language:HTML
+recommended-courses	_site/2025/07/15/mean_rev_2.html	/^<h2 id="recommended-courses">Recommended Courses:<\/h2>$/;"	I	line:330	language:HTML
+recommended-courses	_site/2025/07/16/mean_rev_3.html	/^<h2 id="recommended-courses">Recommended Courses:<\/h2>$/;"	I	line:200	language:HTML
+references	_site/FinlTimeSeriesAppendix.html	/^<h3 id="references">References:<\/h3>$/;"	I	line:131	language:HTML
+references	_site/drafts/optimal_trading_ar1.html	/^<h3 id="references">References<\/h3>$/;"	I	line:195	language:HTML
+references-allocation-with-fixed-costs	_site/2025/07/15/mean_rev_2.html	/^<h3 id="references-allocation-with-fixed-costs">References (Allocation with Fixed Costs)<\/h3>$/;"	I	line:226	language:HTML
+references-and-further-reading	_site/2025/07/14/mean_rev_1.html	/^<h2 id="references-and-further-reading">References and Further Reading<\/h2>$/;"	I	line:347	language:HTML
+references-and-further-reading	_site/2025/07/16/mean_rev_3.html	/^<h2 id="references-and-further-reading">References and Further Reading<\/h2>$/;"	I	line:172	language:HTML
+repository-overview	_site/CLAUDE.html	/^<h2 id="repository-overview">Repository Overview<\/h2>$/;"	I	line:122	language:HTML
+ruby-environment-management	_site/CLAUDE.html	/^<h3 id="ruby-environment-management">Ruby Environment Management<\/h3>$/;"	I	line:176	language:HTML
+sell-side-research--academic-research	_site/index.html	/^<h3 id="sell-side-research--academic-research">Sell-Side Research &amp; Academic Research<\/h3>$/;"	I	line:283	language:HTML
+site-main	_site/2025/07/14/mean_rev_1.html	/^        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">$/;"	I	line:111	language:HTML
+site-main	_site/2025/07/15/mean_rev_2.html	/^        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">$/;"	I	line:111	language:HTML
+site-main	_site/2025/07/16/mean_rev_3.html	/^        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">$/;"	I	line:111	language:HTML
+site-main	_site/CLAUDE.html	/^        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">$/;"	I	line:110	language:HTML
+site-main	_site/FinlTimeSeriesAppendix.html	/^        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">$/;"	I	line:110	language:HTML
+site-main	_site/blog/index.html	/^        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">$/;"	I	line:110	language:HTML
+site-main	_site/drafts/bayesian_optimal_trading.html	/^        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">$/;"	I	line:110	language:HTML
+site-main	_site/drafts/optimal_trading_ar1.html	/^        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">$/;"	I	line:110	language:HTML
+site-main	_site/drafts/optimal_trading_market_impact.html	/^        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">$/;"	I	line:110	language:HTML
+site-main	_site/index.html	/^        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">$/;"	I	line:110	language:HTML
+site-main	_site/jekyll/update/2025/07/04/causality.html	/^        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">$/;"	I	line:111	language:HTML
+site-main	_site/local_serve.html	/^        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">$/;"	I	line:110	language:HTML
+site-main	_site/test/2025/07/05/test-post.html	/^        <main class="site-main" id="site-main" aria-label="Content" tabindex="1">$/;"	I	line:111	language:HTML
+site-sidebar	_site/2025/07/14/mean_rev_1.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:86	language:HTML
+site-sidebar	_site/2025/07/15/mean_rev_2.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:86	language:HTML
+site-sidebar	_site/2025/07/16/mean_rev_3.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:86	language:HTML
+site-sidebar	_site/CLAUDE.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:85	language:HTML
+site-sidebar	_site/FinlTimeSeriesAppendix.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:85	language:HTML
+site-sidebar	_site/blog/index.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:85	language:HTML
+site-sidebar	_site/drafts/bayesian_optimal_trading.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:85	language:HTML
+site-sidebar	_site/drafts/optimal_trading_ar1.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:85	language:HTML
+site-sidebar	_site/drafts/optimal_trading_market_impact.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:85	language:HTML
+site-sidebar	_site/index.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:85	language:HTML
+site-sidebar	_site/jekyll/update/2025/07/04/causality.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:86	language:HTML
+site-sidebar	_site/local_serve.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:85	language:HTML
+site-sidebar	_site/test/2025/07/05/test-post.html	/^        <aside class="site-sidebar" id="site-sidebar">$/;"	I	line:86	language:HTML
+site-structure	_site/CLAUDE.html	/^<h3 id="site-structure">Site Structure<\/h3>$/;"	I	line:142	language:HTML
+social-media-and-online-presence	_site/index.html	/^<h2 id="social-media-and-online-presence">Social Media and Online Presence<\/h2>$/;"	I	line:298	language:HTML
+testing-mathjax-on-github-pages	_site/blog/index.html	/^      <p><h1 id="testing-mathjax-on-github-pages">Testing MathJax on GitHub Pages<\/h1>$/;"	I	line:159	language:HTML
+testing-mathjax-on-github-pages	_site/test/2025/07/05/test-post.html	/^    <h1 id="testing-mathjax-on-github-pages">Testing MathJax on GitHub Pages<\/h1>$/;"	I	line:124	language:HTML
+the-augmented-dickey-fuller-test-adf-test	_site/2025/07/14/mean_rev_1.html	/^<h2 id="the-augmented-dickey-fuller-test-adf-test">The Augmented Dickey-Fuller Test (ADF Test)<\//;"	I	line:144	language:HTML
+theme-customization	_site/CLAUDE.html	/^<h3 id="theme-customization">Theme Customization<\/h3>$/;"	I	line:228	language:HTML
+university-teaching	_site/index.html	/^<h3 id="university-teaching">University Teaching<\/h3>$/;"	I	line:234	language:HTML
+utility-function	_site/2025/07/15/mean_rev_2.html	/^<h4 id="utility-function">Utility Function<\/h4>$/;"	I	line:262	language:HTML
+utility-function	_site/drafts/optimal_trading_market_impact.html	/^<h4 id="utility-function">Utility Function<\/h4>$/;"	I	line:155	language:HTML
+utility-function-1	_site/2025/07/15/mean_rev_2.html	/^<h4 id="utility-function-1">Utility Function<\/h4>$/;"	I	line:285	language:HTML
+utility-function-1	_site/drafts/optimal_trading_market_impact.html	/^<h4 id="utility-function-1">Utility Function<\/h4>$/;"	I	line:178	language:HTML
+variance-ratio	_site/2025/07/14/mean_rev_1.html	/^<h3 id="variance-ratio">Variance Ratio:<\/h3>$/;"	I	line:368	language:HTML
+variance-ratio	_site/2025/07/16/mean_rev_3.html	/^<h3 id="variance-ratio">Variance Ratio:<\/h3>$/;"	I	line:193	language:HTML
+variance-ratio	_site/test/2025/07/05/test-post.html	/^<h2 id="variance-ratio">Variance Ratio<\/h2>$/;"	I	line:156	language:HTML
+variance-ratio-tests	_site/2025/07/14/mean_rev_1.html	/^<h2 id="variance-ratio-tests">Variance Ratio Tests<\/h2>$/;"	I	line:234	language:HTML
+with-uncertainty-aversion	_site/drafts/bayesian_optimal_trading.html	/^<h4 id="with-uncertainty-aversion">With Uncertainty Aversion<\/h4>$/;"	I	line:176	language:HTML
+xsi	_site/sitemap.xml	/^<urlset xmlns:xsi="http:\/\/www.w3.org\/2001\/XMLSchema-instance" xsi:schemaLocation="http:\/\/w/;"	n	line:2	language:XML	uri:http://www.w3.org/2001/XMLSchema-instance
