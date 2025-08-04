@@ -14,7 +14,8 @@ description: “This post discusses  how to trade mean-reversion after it's been
 
 Mean reversion trading can be as simple as forecasting the level (or spread) we want to trade, and allocating relative to the forecast,
 i.e., in the simple case of an  AR(1) model (or Ornstein-Uhlenbeck process), we have a model such as
-\\[ \Delta y_t = \alpha + \beta y_{t-1} + \epsilon_t \\]
+
+$$ \Delta y_t = \alpha + \beta y_{t-1} + \epsilon_t $$
 where \(y_t$ is the level (or spread) at time $t$, and $\Delta y_t \equiv y_t - y_{t-1}$,
  
 is the backward differences, $\alpha$ is the long-term mean, $\beta$ is the autoregressive coefficient, 
