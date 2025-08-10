@@ -26,10 +26,10 @@
  - **Research Group**: Financial Computing and Analytics Group
  - **Position**: Honorary Reader, Lecturer (Teaching)
  - **PhD Students**: 
-    - Anna-Helena Mihov - DWS
+    - Anna-Helena Mihov - DWS & UCL
     - Zhicheng Xu - UCL
-    - Chloe Taysom - Oxford University Endowment Management
-    - Konark Jain (expected 2025) - JP Morgan
+    - Chloe Taysom - Oxford University Endowment Management & UCL
+    - Konark Jain (expected 2025) - JP Morgan & UCL
     - Dr Gabriel Borrageiro (2023) - Laser Digital / Nomura
     - Dr Wilbur Zhu (2021) - Lumen Research
     - Dr Denis De Montigny (2020) - Fund Guardian
@@ -37,23 +37,29 @@
     - Oxford University PhD Student : Dr Vincent Tan (2024) - Cubist
     - University of Sao Paolo PhD Student: Daniel Cunha-Oliveira - Itau BBA
 
- - **Research Interests**: 
-Interested in ML, Computations Statistics, and AI, applied to Finance and especially to Algorithmic Trading. This necessarily involves time-series forecasting, using methods from Statistics, (Adaptive) Signal Processing, Econometrics, and Machine Learning. 
- Also I have interests in portfolio allocation, and stochastic control / reinforcement learning for optimal execution. Recent areas of interest have been in random matrix theory for portfolio analysis, RL for optimal execution, bagging and boosting over-parameterised shallow nets for online learning to forecast prices in near real-time. In summary, I am interested in 
-    - Financial Time-Series Analysis  
-    - Time-series forecasting for low SNR, highly non-stationary signals.
-    - Change-point detection / regime-switching
-    - Data Augmentation
-    - Overparameterised Models and Ensembling
-    - Adaptive forecasting and State-space models
-    - Kernel methods and DNN for forecasting 
-    - Online Learning & Adaptive Filtering, Fast Algorithms
-    - Optimal Allocation
-    - Order book simulation, Optimal Order Placement, Optimal Market Making
-    - Algorithmic Trading, High Frequency Trading, Market Microstructure, 
-    - Reinforcement Learning / Stochastic Control
-    - Machine Learning, Deep Learning, Statistical Learning, Bayesian Methods
-    - **Other interests**: 
+### **Research Interests**: 
+I am interested in ML, Computations Statistics, and AI, applied to Finance and especially to Algorithmic Trading. 
+This necessarily involves time-series forecasting, using methods from Statistics, (Adaptive) Signal Processing, Econometrics, and Machine Learning. 
+ Also I have interests in portfolio allocation, and stochastic control / reinforcement learning for optimal execution. 
+ Recent areas of interest have been in random matrix theory for portfolio analysis, RL for optimal execution, 
+ bagging and boosting over-parameterised shallow nets for online learning to forecast prices in near real-time. 
+
+In summary, I am interested in some of the following topics, but  _only_ if they are applicable to Algorithmic Trading, primarily in 
+ medium or high frequency(!):
+   - Financial Time-Series Analysis  
+   - Time-series forecasting for low SNR, highly non-stationary signals.
+   - Change-point detection / regime-switching 
+   - Data Augmentation for better model training
+   - Over-parameterised Models and Ensemble methods
+   - Adaptive forecasting and State-space models, primarily for low-latency forecasting
+   - Kernel methods and DNN for time-series forecasting 
+   - Online Learning & Adaptive Filtering, Fast Algorithms for mid to high-frequency trading
+   - Optimal Allocation (e.g., Stats Arb) and Optimal Trade Placement
+   - Order book simulation, Optimal Market Making
+   - Algorithmic Trading, High Frequency Trading, Market Microstructure, 
+   - Reinforcement Learning / Stochastic Control for Algo Trading
+   - Machine Learning, Deep Learning, Statistical Learning, Bayesian Methods for Algo Trading
+   - _Other (vague and older) interests_: 
       - Calculus of Variations and Nonlinear PDE, Elasticity
       - Image Processing
       - Islamic Law and Economics
@@ -76,8 +82,9 @@ Interested in ML, Computations Statistics, and AI, applied to Finance and especi
   - **Lehman Brothers** (1995-1999)
 
 ### Academic Experience:
+  - **University College, London** (2006-Present) Honorary Professor and Lecturer (Teaching), Computer Science.
   - **University of Illinois at Urbana-Champaign** (1994-1995) Assistant Professor (tenure-track), Mathematics. 
-  - **Postdocs**: (1990-94) IMA, Univ of Minn, Heriot-Watt University, University of Bonn, NYU. 
+  - **Postdocs**: (1990-94) Inst for Math and its Applications, Univ of Minn; Heriot-Watt University; University of Bonn; Courant Institute, NYU. 
 
 ### Awards and Grants
   - **NSF Mathematical Sciences Postdoctoral Fellowship**, 1990-1993
@@ -168,6 +175,19 @@ Sell-side research on the EZ crisis, Quant methods in Finance, RV trades, and Is
  - **Email**: [firoozye@gmail.com](mailto:firoozye@gmail.com)
  - **Office**: [WFH]  (Appointments on request, Teams or Email)
 
+
+## Notes for Prospective Students
+   - UCL in its wisdom, does not compensate me for taking PhD students so I rarely take any.
+   - I am not taking any new PhD students at this time. 
+   - I will _only_ consider PhD students whose research interests _directly align_ with my own.
+   - I get a lot of unsolicited requests. I really don't have that much time to give due consideration for a response, so there is 
+ no point in writing if you do not have a strong interest and it directly aligns to one of mine listed above
+   - In order to qualify for the PhD program at UCL, you must have a really stellar background (sorry - I don't make the rules), and preferably have some work experience in finance. The PhD proposal is crucial,
+but I will help out on it. I am not entirely happy helping out on research proposals for students who wind up going somewhere else. Happy to discuss the matter first though. 
+  - Note that at UCL, it is a fantastic CS dept, but there are almost no profs working on Algo Trading aside from me. Other places to consider are Imperial Mathematics, Imperial Finance, 
+Oxford Mathematics, Oxford Man and Engineering.
+  - I take MSc students every summer as per my contract with UCL, but I do _not_ have research projects. You must have an industrial project or one of your own.
+  - If you are an undergrad at UCL, from time-to-time we do have a need to pair you with a PhD student on a project. This can be very rewarding.
 
 ## Social Media and Online Presence
 
