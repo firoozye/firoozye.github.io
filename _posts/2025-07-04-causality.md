@@ -22,3 +22,7 @@ information that helps predict future values of Y, beyond the information contai
 
 
 Understanding causality is crucial for making informed investment decisions, risk management, and developing trading strategies.
+## Resources
+This blog is just a placeholder for a more in-depth discussion of causality in financial markets.
+I gave a webinar on this topic, also based on a course I taught at a leading London HF. This github repo contains the slides and code used in the webinar:
+- [Causality in Crypto Markets](https://github.com/firoozye/crypto_causality)
