@@ -1,0 +1,231 @@
+---
+layout: post
+title: "Trading Mid-Frequency and RV lie a Pro (Part 2): How to scale trades" 
+date:   2025-07-15 00:00:00 +0000
+author:  “Dr. Nick Firoozye”
+description: “This post discusses  how to trade mean-reversion after it's been identified." 
+---
+
+
+
+<!-- This is a GitHub-specific comment "ä ü ö"-->
+
+# Introduction
+
+Mean reversion trading can be as simple as forecasting the level (or spread) we want to trade, and allocating relative to the forecast,
+i.e., in the simple case of an  AR(1) model (or Ornstein-Uhlenbeck process), we have a model such as
+
+$$ \Delta y_t = \alpha + \beta y_{t-1} + \epsilon_t $$
+where \(y_t$ is the level (or spread) at time $t$, and $\Delta y_t \equiv y_t - y_{t-1}$,
+ 
+is the backward differences, $\alpha$ is the long-term mean, $\beta$ is the autoregressive coefficient, 
+and $\epsilon_t$ is a white noise error term (although we may have other terms in the model, such as a trend, or a seasonal, or some AR terms
+to capture the short-run dynamics). In such a model,  if we recast it as \\(y_t = \beta (y_{t-1} - \frac{\alpha}{\beta}) + \alpha 
++ \epsilon_t\\), we can see that the model is mean-reverting if $|\beta| < 1$,
+to the long-run level $\frac{\alpha}{\beta}$, and the speed of mean reversion is given by the coefficient $\beta$.
+
+
+can forecast the level as:
+$$\hat{y}_t = \hat{\alpha} + \hat{\beta} y_{t-1}$$
+where $\hat{\alpha}$ and $\hat{\beta}$ are the estimated coefficients from the model,
+(i.e., they are just found via the OLS regression of $y_t$ on $y_{t-1}$).
+As we mentioned, we could have also considered adding more AR terms, or a trend or a seasonal component. 
+
+No matter how complex the model, it is possible to forecast one period ahead (as we have done above for one period) 
+
+
+
+
+
+
+
+
+
+
+
+# Optimal Mean Reversion Trading with an AR(1) Process and Fixed Costs
+
+This document outlines an optimal trading strategy for a single asset whose price follows a discrete-time AR(1) process. The strategy is derived from a single-period Mean-Variance Optimization (MVO) framework and explicitly incorporates fixed transaction costs.
+
+### 1. The Model
+
+#### Asset Price Dynamics: AR(1) Process
+
+We model the change in the asset price, $S_t$, using a first-order autoregressive (AR(1)) process, which captures mean reversion:
+
+$$ S_{t+1} - S_t = \alpha(\mu - S_t) + \epsilon_{t+1} $$
+
+Where:
+- $S_t$: The price of the asset at time $t$.
+- $\mu$: The long-term mean price to which the asset reverts.
+- $\alpha$: The speed of mean reversion, where $0 < \alpha < 1$.
+- $\epsilon_{t+1}$: A white noise shock term with $E[\epsilon_{t+1}] = 0$ and variance $Var(\epsilon_{t+1}) = \sigma_{\epsilon}^2$.
+
+#### One-Period Ahead Return & Risk
+
+Given the price at time $t$, the conditional expected return and variance for the next period ($t+1$) are:
+
+- **Expected Return**: $ E_t[R_{t+1}] = \alpha(\mu - S_t) $
+- **Variance of Return**: $ Var_t(R_{t+1}) = \sigma_{\epsilon}^2 $
+
+### 2. Optimal Allocation with Transaction Costs
+
+The strategy involves defining a **no-trade zone** around the frictionless optimal allocation. A trade is executed only when the current holding falls outside this zone. Let $h_{t-}$ be the holding *before* a potential trade at time $t$, and let $c$ be the fixed transaction cost per unit traded. The investor's risk aversion is given by $\gamma$.
+
+#### Boundary Formulas
+
+The no-trade zone is an interval $[L(S_t), U(S_t)]$ defined by a lower (buy) boundary and an upper (sell) boundary.
+
+- **Lower Boundary (Buy Threshold) $L(S_t)$**:
+  $$ L(S_t) = \frac{E_t[R_{t+1}] - c}{\gamma \sigma_{\epsilon}^2} = \frac{\alpha(\mu - S_t) - c}{\gamma \sigma_{\epsilon}^2} $$
+
+- **Upper Boundary (Sell Threshold) $U(S_t)$**:
+  $$ U(S_t) = \frac{E_t[R_{t+1}] + c}{\gamma \sigma_{\epsilon}^2} = \frac{\alpha(\mu - S_t) + c}{\gamma \sigma_{\epsilon}^2} $$
+
+The width of this no-trade zone is constant: $U(S_t) - L(S_t) = \frac{2c}{\gamma \sigma_{\epsilon}^2}$.
+
+#### Complete Trading Rules
+
+The optimal allocation, $h_t$, is determined by the following rules:
+
+1.  **If the current holding is below the zone ($h_{t-} < L(S_t)$):**
+    The expected benefit of increasing the position outweighs the cost.
+    **Action**: **BUY** to bring the holding up to the lower boundary.
+    $$ h_t = L(S_t) $$
+
+2.  **If the current holding is above the zone ($h_{t-} > U(S_t)$):**
+    The expected benefit of decreasing the position outweighs the cost.
+    **Action**: **SELL** to bring the holding down to the upper boundary.
+    $$ h_t = U(S_t) $$
+
+3.  **If the current holding is within the zone ($L(S_t) \le h_{t-} \le U(S_t)$):**
+    The expected benefit of a trade is insufficient to cover the cost.
+    **Action**: **DO NOT TRADE**.
+    $$ h_t = h_{t-} $$
+
+---
+### References (Allocation with Fixed Costs)
+
+
+Davis, M. H. A., and Norman, A. R. (1990). "Portfolio Selection with Transaction Costs." *Mathematics of Operations Research*, 15(4), 676–713.
+**Classic Foundational Work:**
+
+**Modern Extension to Multi-Period and General Costs:**
+
+Mei, X., DeMiguel, V., & Nogales, F. J. (2016). "Multiperiod portfolio optimization with multiple risky assets and general transaction costs." *Available at SSRN 2832387*.
+
+
+
+
+# Optimal Trading with Market Impact Costs
+
+This document extends the single-period Mean-Variance Optimization (MVO) framework to include non-linear transaction costs, specifically market impact. Unlike fixed costs which lead to a "no-trade" zone, convex market impact costs result in a strategy of continuous and smooth trading.
+
+### 1. The General Utility Function
+
+We augment the standard MVO utility by subtracting a cost term that is a function of the trade size. Let:
+- $h_t$: The new position (allocation) at time $t$.
+- $h_{t-}$: The position held just before trading at time $t$.
+- **Turnover**: The size of the trade, defined as $|h_t - h_{t-}|$.
+- $\lambda$: A parameter representing the strength of the market impact. Higher $\lambda$ implies higher trading costs.
+- $\beta$: The power of the cost function (e.g., $3/2$ or $2$).
+
+The general utility function, $U(h_t)$, to be maximized at each time step is:
+
+$$ U(h_t) = \underbrace{E_t[R_{t+1}] \cdot h_t - \frac{1}{2}\gamma \sigma_{\epsilon}^2 h_t^2}_{\text{Mean-Variance Utility}} - \underbrace{\lambda |h_t - h_{t-}|^{\beta}}_{\text{Market Impact Cost}} $$
+
+The convexity of the cost function for $\beta > 1$ ensures that the marginal cost of trading increases with trade size, which incentivizes smaller, more frequent trades over large, abrupt ones.
+
+---
+
+### 2. Case 1: Market Impact with $|\text{turnover}|^{3/2}$
+
+This model is frequently used in academic literature and is supported by empirical analysis of trade data, often referred to as the "square-root impact law."
+
+#### Utility Function
+
+$$ U(h_t) = E_t[R_{t+1}] \cdot h_t - \frac{1}{2}\gamma \sigma_{\epsilon}^2 h_t^2 - \lambda |h_t - h_{t-}|^{\frac{3}{2}} $$
+
+#### Characterizing the Optimal Solution
+
+To find the optimal holding $h_t$, we take the derivative of the utility function with respect to $h_t$ and set it to zero. This results in a **non-linear equation**:
+
+$$ \frac{\partial U(h_t)}{\partial h_t} = E_t[R_{t+1}] - \gamma \sigma_{\epsilon}^2 h_t - \frac{3}{2}\lambda |h_t - h_{t-}|^{\frac{1}{2}} \cdot \text{sign}(h_t - h_{t-}) = 0 $$
+
+**Strategy and Intuition:**
+- **No Closed-Form Solution**: Due to the non-linearity, there is no simple, explicit formula for $h_t$. The optimal allocation must be found at each step using a numerical root-finding algorithm.
+- **Partial Adjustment**: The optimal strategy is to always trade towards the frictionless target ($h^* = E_t[R_{t+1}] / (\gamma \sigma_{\epsilon}^2)$), but never to reach it in a single step (unless $h_{t-} = h^*$). You only close a fraction of the gap.
+- **No "No-Trade" Zone**: A trade is almost always optimal, however small. The only time no trade occurs is if the prior holding $h_{t-}$ happens to be exactly at the new optimal level.
+
+---
+
+### 3. Case 2: Market Impact with $|\text{turnover}|^2$ (Kyle-like Model)
+
+This model is popular in economic theory due to its mathematical tractability, which allows for a clean, closed-form solution.
+
+#### Utility Function
+
+$$ U(h_t) = E_t[R_{t+1}] \cdot h_t - \frac{1}{2}\gamma \sigma_{\epsilon}^2 h_t^2 - \lambda (h_t - h_{t-})^2 $$
+
+#### Characterizing the Optimal Solution
+
+The quadratic nature of the cost function makes the first-order condition a **linear equation** in $h_t$, which is easily solved.
+
+$$ \frac{\partial U(h_t)}{\partial h_t} = E_t[R_{t+1}] - \gamma \sigma_{\epsilon}^2 h_t - 2\lambda(h_t - h_{t-}) = 0 $$
+
+Solving for $h_t$ yields:
+
+$$ h_t = \frac{E_t[R_{t+1}]}{\gamma \sigma_{\epsilon}^2 + 2\lambda} + \frac{2\lambda}{\gamma \sigma_{\epsilon}^2 + 2\lambda} h_{t-} $$
+
+**Strategy and Intuition:**
+
+This solution has a very elegant and intuitive structure. If we define the frictionless target holding as $h^* = \frac{E_t[R_{t+1}]}{\gamma \sigma_{\epsilon}^2}$, we can rewrite the solution as:
+
+$$ h_t = \left(\frac{\gamma \sigma_{\epsilon}^2}{\gamma \sigma_{\epsilon}^2 + 2\lambda}\right) h^* + \left(\frac{2\lambda}{\gamma \sigma_{\epsilon}^2 + 2\lambda}\right) h_{t-} $$
+
+- **Weighted Average**: The optimal holding $h_t$ is a simple weighted average of the ideal frictionless target $h^*$ and the previous holding $h_{t-}$.
+- **Trading Speed**: The fraction of the gap between the current holding and the target that is closed in each period is constant and equal to $\frac{\gamma \sigma_{\epsilon}^2}{\gamma \sigma_{\epsilon}^2 + 2\lambda}$. This term can be interpreted as the "speed of trading."
+- **Impact of Costs**: As market impact costs $\lambda$ increase, the weight shifts towards the previous holding $h_{t-}$, leading to slower trading. If $\lambda=0$, the formula collapses to $h_t = h^*$, as expected.
+
+---
+
+### Key References
+
+1.  **Almgren, R., & Chriss, N. (2001). "Optimal Execution of Portfolio Transactions."** *Journal of Risk*, 3(2), 5–40.
+    *(Provides a clear, practical framework for optimal execution using a quadratic cost function, forming the basis for many real-world implementations.)*
+
+2.  **Bouchaud, J.-P., Farmer, J. D., & Lillo, F. (2009). "How markets slowly digest changes in supply and demand."** In *Handbook of Financial Markets: Dynamics and Evolution*.
+    *(Details the empirical evidence for the square-root price impact law, which motivates the use of the $|\text{turnover}|^{3/2}$ cost function.)*
+
+3.  **Kyle, A. S. (1985). "Continuous Auctions and Insider Trading."** *Econometrica*, 53(6), 1315–1335.
+    *(The foundational theoretical paper in market microstructure that justifies a linear price impact model, which corresponds to a quadratic cost of trading.)*
+
+
+
+
+
+## Recommended Courses:
+
+* [Fundamentals of Algorithmic Trading](https://rebrand.ly/ndzrcki), on the WBS/Quantshub Platform. This introductory course describes the Algo Trading Sector and common roles for quants, before discussing
+the overall trading framework with a case study on crypto.
+* [Algorithmic Trading Certificate(ATC): A Practitioner’s Guide](https://rebrand.ly/cbadu1x)
+For a much more detailed discussion, the Algorithmic Trading Certificate, 
+which is available on the WBS Platform, covers the topic in much more detail, 
+including the statistical tests, the trading strategies, and the implementation details. It is available 
+both as a self-paced course, and a hybrid course with live sessions.
+
+
+Finally, I am working on a book on Algorithmic Trading, together with Dr Brian Healy, which will cover the topic in much more detail, including the statistical tests, 
+the trading strategies, and the implementation in far more detail.
+
+<!— track clicks https://quantshub.com/content/fundamentals-algorithmic-trading),->>
+<!— https://www.wbstraining.com/events/algorithmic-trading-certificate/ —>
+
+
+
+[Lipton, A., & De Prado, M. L. (2020). A closed-form solution for optimal mean-reverting trading strategies. 
+ArXiv.](https://arxiv.org/abs/2003.10502)
+
+
+
+https://arxiv.org/pdf/2003.10502v1
