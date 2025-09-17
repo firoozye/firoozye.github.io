@@ -176,18 +176,34 @@ Sell-side research on the EZ crisis, Quant methods in Finance, RV trades, and Is
  - **Office**: [WFH]  (Appointments on request, Teams or Email)
 
 
-## Notes for Prospective Students
-   - UCL in its wisdom, does not compensate me for taking PhD students so I rarely take any.
-   - I am not taking any new PhD students at this time. 
-   - I will _only_ consider PhD students whose research interests _directly align_ with my own.
+## Notes for Prospective Students 
+### Funding
+   - ** Please Note: UCL does not have funding for PhD studentships in this area.**
+   - All my students are either self-funded, funded by their employers, or are part-time PhD students and fund their own studies.
+   - If you need funding, please do not contact me.
+### Advising
+   - UCL in its wisdom, does *not* compensate me for taking PhD students so I _rarely_ take any. 
+   - I will _only_ consider PhD students whose research interests _directly align_ with my own, are published and/or already work in the industry.
+   - I am _not_ taking any new PhD students at this time. 
+   - Again, if you are not doing Algo Trading or Something directly related, please do not contact me. (I get far too many requests from  people whose interests are 
+ really far from my own.)
    - I get a lot of unsolicited requests. I really don't have that much time to give due consideration for a response, so there is 
  no point in writing if you do not have a strong interest and it directly aligns to one of mine listed above
+### General Advice 
    - In order to qualify for the PhD program at UCL, you must have a really stellar background (sorry - I don't make the rules), and preferably have some work experience in finance. The PhD proposal is crucial,
 but I will help out on it. I am not entirely happy helping out on research proposals for students who wind up going somewhere else. Happy to discuss the matter first though. 
-  - Note that at UCL, it is a fantastic CS dept, but there are almost no profs working on Algo Trading aside from me. Other places to consider are Imperial Mathematics, Imperial Finance, 
-Oxford Mathematics, Oxford Man and Engineering.
+  - Note that at UCL, it is a fantastic CS dept, but there are almost no profs working on Algo Trading aside from me. Just a little on options pricing in
+an online setting, and some LOB sims, but this does not make a major research theme. 
+  - Other places in the vicinity to consider are 
+    - UCL Mathematics Dept (one prof working on mid to hft - I don't know him but he seems to do some good work), 
+    - Imperial Mathematics Dept (some great profs mostly working in pricing, but a little interest in trading as well), 
+    - Imperial Finance Dept (a few profs doing microstructure), 
+    - Oxford Mathematics Dept (one senior prof at least, highly diverse interests including DNNs for trading), 
+    - Oxford Man Institute (focused more on Stoch Control and RL for trading),
+    - Oxford Engineering Dept (a few profs working on ML and DNN for trading applications)
   - I take MSc students every summer as per my contract with UCL, but I do _not_ have research projects. You must have an industrial project or one of your own.
-  - If you are an undergrad at UCL, from time-to-time we do have a need to pair you with a PhD student on a project. This can be very rewarding.
+  - If you are an undergrad at UCL, from time-to-time we do have a need to pair you with a PhD student on a project. This can be very rewarding as I have some excellent PhD students
+and the undergrads have done well with the interaction.
 
 ## Social Media and Online Presence
 
@@ -202,5 +218,5 @@ Oxford Mathematics, Oxford Man and Engineering.
 
 
  ---
- Last updated: [9-07-2025]
+ Last updated: [17-09-2025]
 
