@@ -6,3 +6,4 @@ blogpost.html
 *.xlsx#
 _site/
 drafts/
+*.zip
